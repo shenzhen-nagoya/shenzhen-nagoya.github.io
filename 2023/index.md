@@ -15,7 +15,7 @@ Registration
 
 Organizing committee
 ----------------
-* Masahito Hayashi (Chair, )
+* Masahito Hayashi (Chair, /Nagoya Univ.)
 * Hiroaki Kanno (Nagoya Univ.)
 * Shintarou Yanagida (Nagoya Univ.)
 * Ryuhei Mori (Nagoya Univ.)
