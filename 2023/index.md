@@ -20,6 +20,13 @@ Organizing committee
 * Shintarou Yanagida (Nagoya Univ.)
 * Ryuhei Mori (Nagoya Univ.)
 
+<ShenzhenNagoya2023@gmail.com>
+
+KouShare/YouTube live streaming
+----------------
+
+Talks will be streamed by KouShare and YouTube.
+
 Program
 ----------------
 
