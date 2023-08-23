@@ -8,17 +8,17 @@ Shenzhen--Nagoya Workshop on Quantum Science 2023
 
 Date and venue
 ----------------
-5--8 Sep. 2023
+5--8 Sep. 2023, Online
 
-Speakers
+Registration
 ----------------
-* Sergey Bravyi (IBM)
-* François Le Gall (Nagoya University)
-* Ryuhei Mori (Tokyo Institute of Technology), Organizer
-* Tomoyuki Morimae (Kyoto University)
-* Ramis Movassagh (IBM Quantum, MIT-IBM AI Research lab)
-* Seiichiro Tani (NTT Corporation)
-* Jevgēnijs Vihrovs (University of Latvia)
+
+Organizing committee
+----------------
+* Masahito Hayashi (Chair, )
+* Hiroaki Kanno (Nagoya Univ.)
+* Shintarou Yanagida (Nagoya Univ.)
+* Ryuhei Mori (Nagoya Univ.)
 
 Program
 ----------------
