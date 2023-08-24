@@ -8,14 +8,17 @@ Shenzhen--Nagoya Workshop on Quantum Science 2023
 
 Date and venue
 ----------------
-5--8 Sep. 2023, Online
+5--8 Sep. 2023, Hybrid (in-person and Zoom)
+
+509 Mathematics Bldg. Nagoya University [access](https://www.math.nagoya-u.ac.jp/en/direction/nagoya.html)
 
 Registration
 ----------------
 
 Organizing committee
 ----------------
-* Masahito Hayashi (Chair, /Nagoya Univ.)
+* Masahito Hayashi (Chair, CUHK-SZ, IQA, and Nagoya Univ.)
+* An-Si Bai (SUSTech)
 * Hiroaki Kanno (Nagoya Univ.)
 * Shintarou Yanagida (Nagoya Univ.)
 * Ryuhei Mori (Nagoya Univ.)
@@ -25,7 +28,7 @@ Organizing committee
 KouShare/YouTube live streaming
 ----------------
 
-Talks will be streamed by KouShare and YouTube.
+Talks will be streamed on KouShare and YouTube.
 
 Program
 ----------------
@@ -41,7 +44,7 @@ Program
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Harumichi Nishimura | |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Qisheng Wang        | |
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Geng Liu            | |
-| 15:20 -- 16:00 | 16:20 -- 17:00 | Ryuhei Mori         | |
+| 15:20 -- 16:00 | 16:20 -- 17:00 | Kohtaro Kato        | |
 
 ### 6 Sep.
 
@@ -64,7 +67,7 @@ Program
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Haidong Yuan        | |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Hayato Arai         | |
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Baichu Yu           | |
-| 15:20 -- 16:00 | 16:20 -- 17:00 | Kohtaro Kato        | |
+| 15:20 -- 16:00 | 16:20 -- 17:00 | Ryuhei Mori         | |
 
 ### 8 Sep.
 
