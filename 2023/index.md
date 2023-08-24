@@ -14,6 +14,7 @@ Date and venue
 
 Registration
 ----------------
+[Link to Microsoft Forms](https://forms.office.com/r/PMMAiL9Z3T)
 
 Organizing committee
 ----------------
