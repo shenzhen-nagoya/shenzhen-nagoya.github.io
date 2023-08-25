@@ -45,7 +45,7 @@ Program
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Harumichi Nishimura | |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Qisheng Wang        | |
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Geng Liu            | |
-| 15:20 -- 16:00 | 16:20 -- 17:00 | Kohtaro Kato        | Exact and Local Compression of Quantum Bipartite States |
+| 15:20 -- 16:00 | 16:20 -- 17:00 | Kohtaro Kato        | [Exact and Local Compression of Quantum Bipartite States](#kato) |
 
 ### 6 Sep.
 
@@ -64,7 +64,7 @@ Program
 |---------------:|---------------:|:--------------------|-------|
 | 09:30 -- 10:10 | 10:30 -- 11:10 | Francesco Buscemi   | |
 | 10:20 -- 10:40 | 11:20 -- 11:40 | Shintaro Minagawa   | |
-| 10:50 -- 11:30 | 11:50 -- 12:30 | Masahito Hayashi    | Tight Cramér-Rao type bounds for multiparameter quantum metrology through conic programming |
+| 10:50 -- 11:30 | 11:50 -- 12:30 | Masahito Hayashi    | [Tight Cramér-Rao type bounds for multiparameter quantum metrology through conic programming](#hayashi) |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Haidong Yuan        | |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Hayato Arai         | |
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Baichu Yu           | |
@@ -74,7 +74,7 @@ Program
 
 | CST (UTC+8)    | JST (UTC+9)    | Speaker             | Title |
 |---------------:|---------------:|:--------------------|-------|
-| 09:30 -- 10:10 | 10:30 -- 11:10 | Shintarou Yanagida  | Quick introduction to chiral quantization |
+| 09:30 -- 10:10 | 10:30 -- 11:10 | Shintarou Yanagida  | [Quick introduction to chiral quantization](#yanagida) |
 | 10:20 -- 10:40 | 11:20 -- 11:40 | An-Si Bai           | |
 | 10:50 -- 11:10 | 11:50 -- 12:10 | Shun Wakatsuki      | |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Qin Li              | |
@@ -85,14 +85,14 @@ Program
 Abstracts
 ----------------
 
-### Kohtaro Kato (Nagoya University)
+### Kohtaro Kato (Nagoya University) {#kato}
 
 Title: Exact and Local Compression of Quantum Bipartite States
 
 Abstract: Quantum data compression is one of the most fundamental quantum information processing. We study an exact local compression of a quantum bipartite state; that is, exact and noiseless one-shot quantum data compression of general mixed state sources without side information or entanglement assistance. We provide a formula for computing the minimal achievable compression dimensions, provided as a minimization of the Schmidt rank of a particular pure state constructed from that state. We will then discuss a possible application to tensor-network states.
 
 
-### Masahito Hayashi (CUHK-SZ, IQA, and Nagoya Univ.)
+### Masahito Hayashi (CUHK-SZ, IQA, and Nagoya Univ.) {#hayashi}
 
 Title: Tight Cramér-Rao type bounds for multiparameter quantum metrology through conic programming
 
@@ -104,7 +104,7 @@ Link to arXiv paper: [arXiv:2209.05218](https://arxiv.org/abs/2209.05218)
 It will appear in Quantum.
 
 
-### Shintarou Yanagida (Nagoya University)
+### Shintarou Yanagida (Nagoya University) {#yanagida}
 
 Title: Quick introduction to chiral quantization
 
@@ -117,3 +117,9 @@ a sheaf of vertex algebras whose 0th associated graded part recovers the
 original structure sheaf with Poisson structure.
 I will give a short introduction to this topic.
  
+Link
+----------------
+
+* [SUSTech-Nagoya 2022](https://www.math.nagoya-u.ac.jp/~yanagida/SUSTech-Nagoya2022.html)
+* [SUSTech-Nagoya 2021](https://www.math.nagoya-u.ac.jp/~yanagida/SUSTech-Nagoya2021.html)
+
