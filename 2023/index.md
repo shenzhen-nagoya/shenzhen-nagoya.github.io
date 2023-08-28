@@ -143,13 +143,13 @@ Title: Exact and Local Compression of Quantum Bipartite States
 
 Abstract: Quantum data compression is one of the most fundamental quantum information processing. We study an exact local compression of a quantum bipartite state; that is, exact and noiseless one-shot quantum data compression of general mixed state sources without side information or entanglement assistance. We provide a formula for computing the minimal achievable compression dimensions, provided as a minimization of the Schmidt rank of a particular pure state constructed from that state. We will then discuss a possible application to tensor-network states.
 
-### Liang Kong (SUSTech) {#kong}
+### Liang Kong (Southern University of Science and Technology) {#kong}
 
 Title: A morphism between two QFTs
 
 Abstract: A morphism between two mathematical objects of the same type (e.g. groups, algebras, representations, categories, etc.), which preserves the defining structures of the objects, is one of the most important notions in mathematics. However, how to define such a morphism between two QFT's (or quantum phases) had never been considered in physics until [arXiv:1502.01690](https://arxiv.org/abs/1502.01690). This notion is getting more and more important in the study of QFTs especially after the rise of generalized high symmetries in recent years. In this talk, I will give a review of this notion and discuss some of its applications in mathematics and physics.
 
-### Jiaheng Zhao () {#zhao}
+### Jiaheng Zhao (Chinese Academy of Sciences) {#zhao}
 
 Title: Center functors and condensation theory
 
