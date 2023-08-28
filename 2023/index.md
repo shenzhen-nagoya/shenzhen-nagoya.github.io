@@ -154,7 +154,7 @@ Abstract: A morphism between two mathematical objects of the same type (e.g. gro
 Title: Center functors and condensation theory
 
 Abstract:
-The notion of center plays a key role in the study of topological order. In this talk I will introduce the center functor in the context of seperable n-categories. Then I will talk about some generalizations and applications in condensation theory.
+The notion of center plays a key role in the study of topological order. In this talk I will introduce the center functor in the context of seperable $$n$$-categories. Then I will talk about some generalizations and applications in condensation theory.
 
 ### Ryo Hayami (Nagoya University) {#hayami}
 
@@ -168,7 +168,7 @@ are 1-dimensional BFV(Batalin-Fradkin-Vilkovisky) currents whose target
 datum are degree 2 dg symplectic manifolds(Courant algebroids). In this
 talk, I will introduce a higher version of the one-to-one
 correspondence, which is an algebraic generalization of
-$$(n-1)$$-dimensional BFV currents whose target datum are degree n dg
+$$(n-1)$$-dimensional BFV currents whose target datum are degree $$n$$ dg
 symplectic manifolds. Moreover, noncommutative analogue of the
 correspondence (dg bisymplectic geometry and (higher) double Poisson
 vertex algebras) will be discussed. This talk is partly based on
