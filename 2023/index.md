@@ -39,7 +39,7 @@ Program
 | CST (UTC+8)    | JST (UTC+9)    | Speaker             | Title |
 |---------------:|---------------:|:--------------------|-------|
 | 09:25 -- 09:30 | 10:25 -- 10:30 |                     | Opening |
-| 09:30 -- 10:10 | 10:30 -- 11:10 | François Le Gall    | |
+| 09:30 -- 10:10 | 10:30 -- 11:10 | François Le Gall    | [Improved Hardness Results for the Guided Local Hamiltonian Problem](#legall) |
 | 10:20 -- 10:40 | 11:20 -- 11:40 | Ansis Rosmanis      | [Quantum computation and simulation, algorithms and complexity](#rosmanis) |
 | 10:50 -- 11:30 | 11:50 -- 12:30 | Benyou Wang         | |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Harumichi Nishimura | [More Distributed Quantum Merlin-Arthur Protocols: Improvement and Extension](#nishimura) |
@@ -84,6 +84,14 @@ Program
 
 Abstracts
 ----------------
+
+### François Le Gall (Nagoya University) {#legall}
+
+Title: Improved Hardness Results for the Guided Local Hamiltonian Problem
+
+Abstract:
+Estimating the ground state energy of a local Hamiltonian is a central problem in quantum chemistry. In order to further investigate its complexity and the potential of quantum algorithms for quantum chemistry, Gharibian and Le Gall (STOC 2022) recently introduced the guided local Hamiltonian problem (GLH), which is a variant of the local Hamiltonian problem where an approximation of a ground state is given as an additional input. Gharibian and Le Gall showed quantum advantage (more precisely, BQP-completeness) for GLH with 6-local Hamiltonians when the guiding vector has overlap (inverse-polynomially) close to $$1/sqrt{2}$$ with a ground state.
+In this paper, we optimally improve both the locality and the overlap parameters: we show that this quantum advantage (BQP-completeness) persists even with 2-local Hamiltonians, and even when the guiding state has overlap (inverse-polynomially) close to 1 with a ground state. Moreover, we show that the BQP-completeness also holds for 2-local physically motivated Hamiltonians on a 2D square lattice or a 2D triangular lattice. This makes a further step towards establishing practical quantum advantage in quantum chemistry.
 
 ### Ansis Rosmanis (Nagoya University) {#rosmanis}
 
@@ -215,6 +223,7 @@ minimum discrimination error probability under the standard quantum
 theory, which is given by the trace norm. Besides, by applying the
 equivalent condition, we derive standard quantum theory out of classes
 of general models under a condition.
+[arXiv:2307.11271](https://arxiv.org/abs/2307.11271)
 
 ### Shintarou Yanagida (Nagoya University) {#yanagida}
 
