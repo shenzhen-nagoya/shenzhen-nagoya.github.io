@@ -87,10 +87,10 @@ Abstracts
 
 ### Ansis Rosmanis (Nagoya University) {#rosmanis}
 
-Title :
+Title:
 Quantum computation and simulation, algorithms and complexity
 
-Abstract :
+Abstract:
 We consider quantum search algorithms that have access to a noisy oracle that, for every oracle call, with probability $$p>0$$ completely depolarizes the query registers, while otherwise working properly. Previous results had not ruled out quantum $$O(\sqrt{n})$$-query algorithms in this setting, even for constant $$p$$. We show that for all $$p$$ in $$[1/\sqrt{n}, 1-\Omega(1)]$$, the quantum noisy-query complexity of the unstructured search is $$\Omega(np)$$, which is tight up to logarithmic factors. The same bound holds for the dephasing noise and even when, for every oracle call, the algorithm is provided with a flag indicating whether the noise has occurred.
 
 ### Harumichi Nishimura (Nagoya University) {#nishimura}
@@ -158,7 +158,7 @@ The notion of center plays a key role in the study of topological order. In this
 
 ### Ryo Hayami (Nagoya University) {#hayami}
 
-Title:dg symplectic geoemetry and (higher) Poisson vertex algebras
+Title: dg symplectic geoemetry and (higher) Poisson vertex algebras
 
 Abstract: One-to-one correspondence between Courant-Dorfman algebras and
 Poisson vertex algebras can be seen as an algebraic generalization of
