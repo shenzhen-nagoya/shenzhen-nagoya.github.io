@@ -52,7 +52,7 @@ Program
 | CST (UTC+8)    | JST (UTC+9)    | Speaker             | Title |
 |---------------:|---------------:|:--------------------|-------|
 | 09:30 -- 10:10 | 10:30 -- 11:10 | Liang Kong          | [A morphism between two QFTs](#kong) |
-| 10:20 -- 10:40 | 11:20 -- 11:40 | Yusuke Nishinaka    | |
+| 10:20 -- 10:40 | 11:20 -- 11:40 | Yusuke Nishinaka    | [A review of vertex algebras and chiral algebras](#nishinaka) |
 | 10:50 -- 11:10 | 11:50 -- 12:10 | Jiaheng Zhao        | [Center functors and condensation theory](#zhao) |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Shinichiroh Matuso  | |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Hao Xu              | |
@@ -67,7 +67,7 @@ Program
 | 10:50 -- 11:30 | 11:50 -- 12:30 | Masahito Hayashi    | [Tight Cramér-Rao type bounds for multiparameter quantum metrology through conic programming](#hayashi) |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Haidong Yuan        | |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Hayato Arai         | [Derivation of Standard Quantum Theory via State Discrimination](#arai) |
-| 14:50 -- 15:10 | 15:50 -- 16:10 | Baichu Yu           | |
+| 14:50 -- 15:10 | 15:50 -- 16:10 | Baichu Yu           | [Measurement-Device-Independent Detection of Beyond Quantum State](#yu) |
 | 15:20 -- 16:00 | 16:20 -- 17:00 | Ryuhei Mori         | |
 
 ### 8 Sep.
@@ -141,6 +141,7 @@ temperature $$\beta$$, showing that the quantum Gibbs sampler by Gilyén, Su,
 Low, and Wiebe (STOC 2019) is optimal.
 3. A new lower bound $$\Omega(1/\sqrt{\Delta})$$ for the entanglement entropy problem with
 gap $$\Delta$$, which was recently studied by She and Yuen (ITCS 2023).
+
 In addition, we also provide unified proofs for some known lower bounds
 that have been proven previously via different techniques, including
 those for phase/amplitude estimation and Hamiltonian simulation.
@@ -156,6 +157,17 @@ Abstract: Quantum data compression is one of the most fundamental quantum inform
 Title: A morphism between two QFTs
 
 Abstract: A morphism between two mathematical objects of the same type (e.g. groups, algebras, representations, categories, etc.), which preserves the defining structures of the objects, is one of the most important notions in mathematics. However, how to define such a morphism between two QFT's (or quantum phases) had never been considered in physics until [arXiv:1502.01690](https://arxiv.org/abs/1502.01690). This notion is getting more and more important in the study of QFTs especially after the rise of generalized high symmetries in recent years. In this talk, I will give a review of this notion and discuss some of its applications in mathematics and physics.
+
+### Yusuke Nishinaka (Nagoya University) {#nishinaka}
+
+Title: A review of vertex algebras and chiral algebras
+
+Abstract: The notion of a vertex algebra was introduced by Borcherds in 1986, and it is known as an algebraic framework of the chiral part of two-dimensional conformal field theory. On the other hand, there is a geometric framework of chiral conformal field theory, which is called a chiral algebra. This notion was introduced by Beilinson and Drinfeld in 2004 using the theory of D-modules and that of operads.
+
+In this talk, I will give a brief review of these topics, in particular:
+1. The relationship between two (algebraic and geometric) approaches.
+2. The operad of chiral algebras (chiral operad) and its algebraic counterpart.
+
 
 ### Jiaheng Zhao (Chinese Academy of Sciences) {#zhao}
 
@@ -224,6 +236,15 @@ theory, which is given by the trace norm. Besides, by applying the
 equivalent condition, we derive standard quantum theory out of classes
 of general models under a condition.
 [arXiv:2307.11271](https://arxiv.org/abs/2307.11271)
+
+### Baichu YU (Southern University of Science and Technology) {#yu}
+
+Title: Measurement-Device-Independent Detection of Beyond Quantum State
+
+Abstract: Bell experiment is a very important type of protocol to study the theoretical and practical problems of quantum information. The device-independent property of Bell experiment makes it a convenient tool for studying theories that are more general than quantum mechanics. Recently it was pointed out that in a standard Bell experiment, we cannot distinguish non-quantum states in the set of positive over all pure tensors (POPT) states from quantum states. We found that if we use the modified measurement-device-independent Bell experiment instead of the device-independent one, namely, if we replace the classical inputs with trusted quantum states, the non-quantum POPT states can be detected effectively. We also studied the detection power of our protocol when the input sets are tomographically incomplete.
+
+In this talk I will first introduce some notions useful for understanding this problem, and then introduce the results we have obtained.
+
 
 ### Shintarou Yanagida (Nagoya University) {#yanagida}
 
