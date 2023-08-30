@@ -55,7 +55,7 @@ Program
 | 09:30 -- 10:10 | 10:30 -- 11:10 | Liang Kong          | [A morphism between two QFTs](#kong) |
 | 10:20 -- 10:40 | 11:20 -- 11:40 | Yusuke Nishinaka    | [A review of vertex algebras and chiral algebras](#nishinaka) |
 | 10:50 -- 11:10 | 11:50 -- 12:10 | Jiaheng Zhao        | [Center functors and condensation theory](#zhao) |
-| 13:30 -- 14:10 | 14:30 -- 15:10 | Shinichiroh Matuso  | |
+| 13:30 -- 14:10 | 14:30 -- 15:10 | Shinichiroh Matsuo  | |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Hao Xu              | [The algebraic structure of elliptic quantum groups](#xu) |
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Ryo Hayami          | [dg symplectic geoemetry and (higher) Poisson vertex algebras](#hayami) |
 
@@ -187,7 +187,7 @@ Title: Center functors and condensation theory
 Abstract:
 The notion of center plays a key role in the study of topological order. In this talk I will introduce the center functor in the context of seperable $$n$$-categories. Then I will talk about some generalizations and applications in condensation theory.
 
-### Shinichiroh Matuso (Nagoya University) {#matsuo}
+### Shinichiroh Matsuo (Nagoya University) {#matsuo}
 
 
 ### Hao Xu (Georg August University of Göttingen) {#xu}
@@ -226,6 +226,7 @@ References:
 * F.B., K. Kobayashi, S. Minagawa, A. Tosini, P. Perinotti; Quantum 7, 1035 (2023)
 * F.B., K. Kobayashi, S. Minagawa; [arXiv:2303.07737](https://arxiv.org/abs/2303.07737)
 
+### Sintaro Minagawa (Nagoya University) {#minagawa}
 
 ### Masahito Hayashi (CUHK-SZ, IQA, and Nagoya Univ.) {#hayashi}
 
