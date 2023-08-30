@@ -12,6 +12,7 @@ Date and venue
 
 509 Mathematics Bldg. Nagoya University [access](https://www.math.nagoya-u.ac.jp/en/direction/nagoya.html)
 
+The zoom link will be sent to those who register using the registration form below.
 
 Registration
 ----------------
@@ -31,6 +32,24 @@ KouShare/YouTube live streaming
 ----------------
 
 Talks will be streamed on KouShare and YouTube.
+
+* Morning 5th
+<https://youtube.com/live/LNfOG15Fud0?feature=share>
+* Afternoon 5th
+<https://youtube.com/live/RebEfLFH69I?feature=share>
+* Morning 6th
+<https://youtube.com/live/wQwsHWE0drs?feature=share>
+* Afternoon 6th
+<https://youtube.com/live/yligIgxUv3I?feature=share>
+* Morning 7th
+<https://youtube.com/live/zlqhPNAijxU?feature=share>
+* Afternoon 7th
+<https://youtube.com/live/TboDa4SQrRE?feature=share>
+* Morning 8th
+<https://youtube.com/live/cxjNe3TQRjY?feature=share>
+* Afternoon 8th
+<https://youtube.com/live/cWU2ySongUE?feature=share>
+
 
 Program
 ----------------
