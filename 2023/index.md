@@ -12,6 +12,7 @@ Date and venue
 
 509 Mathematics Bldg. Nagoya University [access](https://www.math.nagoya-u.ac.jp/en/direction/nagoya.html)
 
+
 Registration
 ----------------
 [Link to Microsoft Forms](https://forms.office.com/r/PMMAiL9Z3T)
@@ -101,7 +102,7 @@ Quantum computation and simulation, algorithms and complexity
 Abstract:
 We consider quantum search algorithms that have access to a noisy oracle that, for every oracle call, with probability $$p>0$$ completely depolarizes the query registers, while otherwise working properly. Previous results had not ruled out quantum $$O(\sqrt{n})$$-query algorithms in this setting, even for constant $$p$$. We show that for all $$p$$ in $$[1/\sqrt{n}, 1-\Omega(1)]$$, the quantum noisy-query complexity of the unstructured search is $$\Omega(np)$$, which is tight up to logarithmic factors. The same bound holds for the dephasing noise and even when, for every oracle call, the algorithm is provided with a flag indicating whether the noise has occurred.
 
-### Benyou Wang () {#bwang}
+### Benyou Wang (Chinese University of Hong Kong, Shenzhen) {#bwang}
 
 ### Harumichi Nishimura (Nagoya University) {#nishimura}
 
@@ -148,7 +149,7 @@ In addition, we also provide unified proofs for some known lower bounds
 that have been proven previously via different techniques, including
 those for phase/amplitude estimation and Hamiltonian simulation.
 
-### Geng Liu (Baidu Research) {#liu}
+### Geng Liu (Shenzhen International Quantum Academy) {#liu}
 
 Title: Exponential Hardness of Optimization in Variational Quantum Algorithms
 
@@ -236,7 +237,7 @@ In the quest to unlock the maximum potential of quantum sensors, it is of paramo
 Link to arXiv paper: [arXiv:2209.05218](https://arxiv.org/abs/2209.05218)
 It will appear in Quantum.
 
-### Haidong Yuan () {#yuan}
+### Haidong Yuan (Chinese University of Hong Kong) {#yuan}
 
 ### Hayato Arai (Nagoya University) {#arai}
 
@@ -287,14 +288,14 @@ I will give a short introduction to this topic.
 
 ### Shun Wakatsuki (Nagoya University) {#wakatsuki}
 
-### Qin Li () {#li}
+### Qin Li (Southern University of Science and Technology) {#li}
 
 ### Masamune Hattori (Nagoya University) {#hattori}
 
 Title:
 The algebraic structure of elliptic quantum groups
 
-Abstruct:
+Abstract:
 Elliptic quantum groups are dynamical and elliptic analogues of quantum
 affine algebras, introduced by Jimbo Konno Odake and Shiraishi(1999).
 This algebra has a structure called a Hopf algebroid rather than a Hopf
