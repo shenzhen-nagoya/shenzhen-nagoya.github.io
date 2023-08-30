@@ -226,7 +226,7 @@ References:
 * F.B., K. Kobayashi, S. Minagawa, A. Tosini, P. Perinotti; Quantum 7, 1035 (2023)
 * F.B., K. Kobayashi, S. Minagawa; [arXiv:2303.07737](https://arxiv.org/abs/2303.07737)
 
-### Sintaro Minagawa (Nagoya University) {#minagawa}
+### Shintaro Minagawa (Nagoya University) {#minagawa}
 
 ### Masahito Hayashi (CUHK-SZ, IQA, and Nagoya Univ.) {#hayashi}
 
