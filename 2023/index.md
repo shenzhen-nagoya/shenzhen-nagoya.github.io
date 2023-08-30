@@ -66,7 +66,7 @@ Program
 | 09:30 -- 10:10 | 10:30 -- 11:10 | Liang Kong          | [A morphism between two QFTs](#kong) |
 | 10:20 -- 10:40 | 11:20 -- 11:40 | Yusuke Nishinaka    | [A review of vertex algebras and chiral algebras](#nishinaka) |
 | 10:50 -- 11:10 | 11:50 -- 12:10 | Jiaheng Zhao        | [Center functors and condensation theory](#zhao) |
-| 13:30 -- 14:10 | 14:30 -- 15:10 | Shinichiroh Matsuo  | |
+| 13:30 -- 14:10 | 14:30 -- 15:10 | Shinichiroh Matsuo  | [Lattice gauge theory and the discretization of Dirac operators](#matsuo) |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Hao Xu              | [The algebraic structure of elliptic quantum groups](#xu) |
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Ryo Hayami          | [dg symplectic geoemetry and (higher) Poisson vertex algebras](#hayami) |
 
@@ -199,6 +199,18 @@ Abstract:
 The notion of center plays a key role in the study of topological order. In this talk I will introduce the center functor in the context of seperable $$n$$-categories. Then I will talk about some generalizations and applications in condensation theory.
 
 ### Shinichiroh Matsuo (Nagoya University) {#matsuo}
+
+Title: Lattice gauge theory and the discretization of Dirac operators
+
+Abstract:
+Our ultimate goal is the discretization of Seiberg-Witten theory.
+Considering PL = DIFF in dimension four, we would like to construct something like PL Seiberg-Witten theory.
+As a first step towards this goal, we try to discretize the analytic index of Dirac operators.
+The analytic index of Fredholm operators is, however, a truly infinite dimensional phenomenon, and that of finite dimensional self-adjoint operators is not interesting.
+Thus, a naive discretization of Dirac operators does not work.
+In this talk, I will show that the “Wilson-Dirac operator” considered in lattice gauge theory gives a correct discretization, at least from the viewpoint of the analytic index.
+
+This talk is based on a joint work with three physicists and two mathematicians: Hidenori Fukaya, Mikio Furuta, Tetsuya Oonogi, Satoshi Yamaguchi, and Mayuko Yamashita.
 
 
 ### Hao Xu (Georg August University of Göttingen) {#xu}
