@@ -44,7 +44,7 @@ Program
 | 10:50 -- 11:30 | 11:50 -- 12:30 | Benyou Wang         | |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Harumichi Nishimura | [More Distributed Quantum Merlin-Arthur Protocols: Improvement and Extension](#nishimura) |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Qisheng Wang        | [Quantum Lower Bounds by Sample-to-Query Lifting](#qwang) |
-| 14:50 -- 15:10 | 15:50 -- 16:10 | Geng Liu            | |
+| 14:50 -- 15:10 | 15:50 -- 16:10 | Geng Liu            | [Exponential Hardness of Optimization in Variational Quantum Algorithms](#liu) |
 | 15:20 -- 16:00 | 16:20 -- 17:00 | Kohtaro Kato        | [Exact and Local Compression of Quantum Bipartite States](#kato) |
 
 ### 6 Sep.
@@ -55,7 +55,7 @@ Program
 | 10:20 -- 10:40 | 11:20 -- 11:40 | Yusuke Nishinaka    | [A review of vertex algebras and chiral algebras](#nishinaka) |
 | 10:50 -- 11:10 | 11:50 -- 12:10 | Jiaheng Zhao        | [Center functors and condensation theory](#zhao) |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Shinichiroh Matuso  | |
-| 14:20 -- 14:40 | 15:20 -- 15:40 | Hao Xu              | |
+| 14:20 -- 14:40 | 15:20 -- 15:40 | Hao Xu              | [The algebraic structure of elliptic quantum groups](#xu) |
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Ryo Hayami          | [dg symplectic geoemetry and (higher) Poisson vertex algebras](#hayami) |
 
 ### 7 Sep.
@@ -78,7 +78,7 @@ Program
 | 10:20 -- 10:40 | 11:20 -- 11:40 | An-Si Bai           | |
 | 10:50 -- 11:10 | 11:50 -- 12:10 | Shun Wakatsuki      | |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Qin Li              | |
-| 14:20 -- 14:40 | 15:20 -- 15:40 | Masamune Hattori    | |
+| 14:20 -- 14:40 | 15:20 -- 15:40 | Masamune Hattori    | [The algebraic structure of elliptic quantum groups](#hattori) |
 | 14:50 -- 15:10 | 15:50 -- 16:10 |                     | Closing |
 
 
@@ -100,6 +100,8 @@ Quantum computation and simulation, algorithms and complexity
 
 Abstract:
 We consider quantum search algorithms that have access to a noisy oracle that, for every oracle call, with probability $$p>0$$ completely depolarizes the query registers, while otherwise working properly. Previous results had not ruled out quantum $$O(\sqrt{n})$$-query algorithms in this setting, even for constant $$p$$. We show that for all $$p$$ in $$[1/\sqrt{n}, 1-\Omega(1)]$$, the quantum noisy-query complexity of the unstructured search is $$\Omega(np)$$, which is tight up to logarithmic factors. The same bound holds for the dephasing noise and even when, for every oracle call, the algorithm is provided with a flag indicating whether the noise has occurred.
+
+### Benyou Wang () {#bwang}
 
 ### Harumichi Nishimura (Nagoya University) {#nishimura}
 
@@ -146,6 +148,14 @@ In addition, we also provide unified proofs for some known lower bounds
 that have been proven previously via different techniques, including
 those for phase/amplitude estimation and Hamiltonian simulation.
 
+### Geng Liu () {#liu}
+
+Title: Exponential Hardness of Optimization in Variational Quantum Algorithms
+
+Abstract: A leading paradigm to establish near-term quantum applications is variational quantum algorithms (VQAs). However, the trainability issue of VQAs has garnered extensive attention, spurring demand for a comprehensive analysis of VQAs in order to identify viable solutions. Here, we propose a perspective that characterizes the trainability of VQAs based on their locality. We prove that the entire variation range of the loss function via adjusting any local quantum gate vanishes exponentially in the number of qubits for a broad class of VQAs. Our findings can deepen the understanding of the role of locality in VQAs and serve as a guideline for assessing the effectiveness of diverse training strategies for VQAs.
+
+Link to arXiv: <https://arxiv.org/abs/2205.05056>
+
 ### Kohtaro Kato (Nagoya University) {#kato}
 
 Title: Exact and Local Compression of Quantum Bipartite States
@@ -175,6 +185,16 @@ Title: Center functors and condensation theory
 
 Abstract:
 The notion of center plays a key role in the study of topological order. In this talk I will introduce the center functor in the context of seperable $$n$$-categories. Then I will talk about some generalizations and applications in condensation theory.
+
+### Shinichiroh Matuso (Nagoya University) {#matsuo}
+
+
+### Hao Xu () {#xu}
+
+Title: From group cohomology to topological quantum invariants
+
+Abstract: Group cohomology, a powerful mathematical tool rooted in homological algebra, provides a unique perspective for studying symmetries and invariants associated with groups. By analyzing the cocycles and coboundaries that characterize group extensions, one can unveil subtle properties of symmetry which arises naturally in condensed matter physics, gauge theories and quantum informations. Topological invariants, often realized as robust quantities insensitive to continuous deformations, have recently revolutionized our understanding of topological phases of matter and quantum field theories. The talk will explore how group cohomology seamlessly generalized to the language of higher fusion categories, unveiling the elegant mathematics underlying phenomena such as fractional quantum Hall states.
+
 
 ### Ryo Hayami (Nagoya University) {#hayami}
 
@@ -216,6 +236,8 @@ In the quest to unlock the maximum potential of quantum sensors, it is of paramo
 Link to arXiv paper: [arXiv:2209.05218](https://arxiv.org/abs/2209.05218)
 It will appear in Quantum.
 
+### Haidong Yuan () {#yuan}
+
 ### Hayato Arai (Nagoya University) {#arai}
 
 Title:
@@ -237,13 +259,15 @@ equivalent condition, we derive standard quantum theory out of classes
 of general models under a condition.
 [arXiv:2307.11271](https://arxiv.org/abs/2307.11271)
 
-### Baichu YU (Southern University of Science and Technology) {#yu}
+### Baichu Yu (Southern University of Science and Technology) {#yu}
 
 Title: Measurement-Device-Independent Detection of Beyond Quantum State
 
 Abstract: Bell experiment is a very important type of protocol to study the theoretical and practical problems of quantum information. The device-independent property of Bell experiment makes it a convenient tool for studying theories that are more general than quantum mechanics. Recently it was pointed out that in a standard Bell experiment, we cannot distinguish non-quantum states in the set of positive over all pure tensors (POPT) states from quantum states. We found that if we use the modified measurement-device-independent Bell experiment instead of the device-independent one, namely, if we replace the classical inputs with trusted quantum states, the non-quantum POPT states can be detected effectively. We also studied the detection power of our protocol when the input sets are tomographically incomplete.
 
 In this talk I will first introduce some notions useful for understanding this problem, and then introduce the results we have obtained.
+
+### Ryuhei Mori (Nagoya University) {#mori}
 
 
 ### Shintarou Yanagida (Nagoya University) {#yanagida}
@@ -258,6 +282,26 @@ It involves attaching to a given Poisson manifold (the phase space of a classica
 a sheaf of vertex algebras whose 0th associated graded part recovers the
 original structure sheaf with Poisson structure.
 I will give a short introduction to this topic.
+
+### An-Si Bai () {#bai}
+
+### Shun Wakatsuki () {#wakatsuki}
+
+### Qin Li () {#li}
+
+### Masamune Hattori (Nagoya University) {#hattori}
+
+Title:
+The algebraic structure of elliptic quantum groups
+
+Abstruct:
+Elliptic quantum groups are dynamical and elliptic analogues of quantum
+affine algebras, introduced by Jimbo Konno Odake and Shiraishi(1999).
+This algebra has a structure called a Hopf algebroid rather than a Hopf
+algebra.
+In this talk, after an overview of the definition of elliptic quantum
+groups, we introduces Hopf algebroid and explains that elliptic quantum
+groups have the structure of Hopf algebroids.
  
 Links
 ----------------
