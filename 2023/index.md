@@ -67,7 +67,7 @@ Program
 | 10:20 -- 10:40 | 11:20 -- 11:40 | Yusuke Nishinaka    | [A review of vertex algebras and chiral algebras](#nishinaka) |
 | 10:50 -- 11:10 | 11:50 -- 12:10 | Jiaheng Zhao        | [Center functors and condensation theory](#zhao) |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Shinichiroh Matsuo  | [Lattice gauge theory and the discretization of Dirac operators](#matsuo) |
-| 14:20 -- 14:40 | 15:20 -- 15:40 | Hao Xu              | [The algebraic structure of elliptic quantum groups](#xu) |
+| 14:20 -- 14:40 | 15:20 -- 15:40 | Hao Xu              | [From group cohomology to topological quantum invariants](#xu) |
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Ryo Hayami          | [dg symplectic geoemetry and (higher) Poisson vertex algebras](#hayami) |
 
 ### 7 Sep.
