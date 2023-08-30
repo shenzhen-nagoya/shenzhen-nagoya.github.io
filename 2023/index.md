@@ -208,7 +208,7 @@ Considering PL = DIFF in dimension four, we would like to construct something li
 As a first step towards this goal, we try to discretize the analytic index of Dirac operators.
 The analytic index of Fredholm operators is, however, a truly infinite dimensional phenomenon, and that of finite dimensional self-adjoint operators is not interesting.
 Thus, a naive discretization of Dirac operators does not work.
-In this talk, I will show that the “Wilson-Dirac operator” considered in lattice gauge theory gives a correct discretization, at least from the viewpoint of the analytic index.
+In this talk, I will show that the ``Wilson-Dirac operator'' considered in lattice gauge theory gives a correct discretization, at least from the viewpoint of the analytic index.
 
 This talk is based on a joint work with three physicists and two mathematicians: Hidenori Fukaya, Mikio Furuta, Tetsuya Oonogi, Satoshi Yamaguchi, and Mayuko Yamashita.
 
