@@ -148,7 +148,7 @@ In addition, we also provide unified proofs for some known lower bounds
 that have been proven previously via different techniques, including
 those for phase/amplitude estimation and Hamiltonian simulation.
 
-### Geng Liu () {#liu}
+### Geng Liu (Baidu Research) {#liu}
 
 Title: Exponential Hardness of Optimization in Variational Quantum Algorithms
 
@@ -189,7 +189,7 @@ The notion of center plays a key role in the study of topological order. In this
 ### Shinichiroh Matuso (Nagoya University) {#matsuo}
 
 
-### Hao Xu () {#xu}
+### Hao Xu (Georg August University of Göttingen) {#xu}
 
 Title: From group cohomology to topological quantum invariants
 
@@ -283,9 +283,9 @@ a sheaf of vertex algebras whose 0th associated graded part recovers the
 original structure sheaf with Poisson structure.
 I will give a short introduction to this topic.
 
-### An-Si Bai () {#bai}
+### An-Si Bai (Southern University of Science and Technology) {#bai}
 
-### Shun Wakatsuki () {#wakatsuki}
+### Shun Wakatsuki (Nagoya University) {#wakatsuki}
 
 ### Qin Li () {#li}
 
