@@ -150,15 +150,16 @@ obtain the following new results:
 1. A quadratic relation between quantum sample and query complexities
 regarding quantum property testing, which is optimal and saturated by
 quantum state discrimination.
-2. A matching lower bound $$\Omega(\beta)$$ for quantum Gibbs sampling at inverse
+2. A matching lower bound $$\widetilde{\Omega}(\beta)$$ for quantum Gibbs sampling at inverse
 temperature $$\beta$$, showing that the quantum Gibbs sampler by Gilyén, Su,
 Low, and Wiebe (STOC 2019) is optimal.
-3. A new lower bound $$\Omega(1/\sqrt{\Delta})$$ for the entanglement entropy problem with
+3. A new lower bound $$\widetilde{\Omega}(1/\sqrt{\Delta})$$ for the entanglement entropy problem with
 gap $$\Delta$$, which was recently studied by She and Yuen (ITCS 2023).
 
 In addition, we also provide unified proofs for some known lower bounds
 that have been proven previously via different techniques, including
 those for phase/amplitude estimation and Hamiltonian simulation.
+[arXiv:2308.01794](https://arxiv.org/abs/2308.01794)
 
 ### Geng Liu (Shenzhen International Quantum Academy) {#liu}
 
