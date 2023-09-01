@@ -75,7 +75,7 @@ Program
 | CST (UTC+8)    | JST (UTC+9)    | Speaker             | Title |
 |---------------:|---------------:|:--------------------|-------|
 | 09:30 -- 10:10 | 10:30 -- 11:10 | Francesco Buscemi   | [Measurement sharpness and incompatibility as quantum resources](#buscemi) |
-| 10:20 -- 10:40 | 11:20 -- 11:40 | Shintaro Minagawa   | |
+| 10:20 -- 10:40 | 11:20 -- 11:40 | Shintaro Minagawa   | [The second law of information thermodynamics for general quantum measurement processes](#minagawa) |
 | 10:50 -- 11:30 | 11:50 -- 12:30 | Masahito Hayashi    | [Tight Cramér-Rao type bounds for multiparameter quantum metrology through conic programming](#hayashi) |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Haidong Yuan        | |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Hayato Arai         | [Derivation of Standard Quantum Theory via State Discrimination](#arai) |
@@ -87,7 +87,7 @@ Program
 | CST (UTC+8)    | JST (UTC+9)    | Speaker             | Title |
 |---------------:|---------------:|:--------------------|-------|
 | 09:30 -- 10:10 | 10:30 -- 11:10 | Shintarou Yanagida  | [Quick introduction to chiral quantization](#yanagida) |
-| 10:20 -- 10:40 | 11:20 -- 11:40 | An-Si Bai           | |
+| 10:20 -- 10:40 | 11:20 -- 11:40 | An-Si Bai           | [The center of a finite dimensional quantum group](#bai) |
 | 10:50 -- 11:10 | 11:50 -- 12:10 | Shun Wakatsuki      | |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Qin Li              | |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Masamune Hattori    | [The algebraic structure of elliptic quantum groups](#hattori) |
@@ -252,6 +252,12 @@ References:
 
 ### Shintaro Minagawa (Nagoya University) {#minagawa}
 
+Title: The second law of information thermodynamics for general quantum measurement processes
+
+Abstract: Information processing such as feedback control can appear to violate the second law of thermodynamics, and this problem is called Maxwell's demon paradox. The solution of this paradox given by previous studies imposed several assumptions on the measurement process, thus giving only sufficient conditions for feedback control to be consistent with the second law. In contrast, we analyze feedback control with the most general measurement process and discuss necessary and sufficient conditions for it to satisfy the second law inequalities.
+
+arXiv: <https://arxiv.org/abs/2308.15558>
+
 ### Masahito Hayashi (CUHK-SZ, IQA, and Nagoya Univ.) {#hayashi}
 
 Title: Tight Cramér-Rao type bounds for multiparameter quantum metrology through conic programming
@@ -310,6 +316,11 @@ original structure sheaf with Poisson structure.
 I will give a short introduction to this topic.
 
 ### An-Si Bai (Southern University of Science and Technology) {#bai}
+
+Title: The center of a finite dimensional quantum group
+
+Abstract:
+ The center of an algebra is the subalgebra consisting of elements commuting with every element of this algebra. It has a universal property identified by Lurie (2009) which can be easily generalized to various set-ups. In this talk we announce a verification that the Drinfeld double construction of a finite dimensional Hopf algebra gives rise to the 2-categorical center of this Hopf algebra.
 
 ### Shun Wakatsuki (Nagoya University) {#wakatsuki}
 
