@@ -86,7 +86,7 @@ Sessoin Chair: Ryuhei Mori (Morning)/ Francesco Buscemi (Afternoon)
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Haidong Yuan        | |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Hayato Arai         | [Derivation of Standard Quantum Theory via State Discrimination](#arai) |
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Baichu Yu           | [Measurement-Device-Independent Detection of Beyond Quantum State](#yu) |
-| 15:20 -- 16:00 | 16:20 -- 17:00 | Ryuhei Mori         | |
+| 15:20 -- 16:00 | 16:20 -- 17:00 | Ryuhei Mori         | [Lower bounds on the error probability of multiple quantum channel discrimination by the Bures angle and the trace distance](#mori) |
 
 ### 8 Sep.
 
@@ -314,6 +314,10 @@ In this talk I will first introduce some notions useful for understanding this p
 
 ### Ryuhei Mori (Nagoya University) {#mori}
 
+Title: Lower bounds on the error probability of multiple quantum channel discrimination by the Bures angle and the trace distance
+
+Abstract: Quantum channel discrimination is a fundamental problem in quantum information science. In this study, we consider general quantum channel discrimination problems, and derive the lower bounds of the error probability. Our lower bounds are based on the triangle inequalities of the Bures angle and the trace distance. As a consequence of the lower bound based on the Bures angle, we prove the optimality of Grover's search if the number of marked elements is fixed to some integer $$\ell$$. This result generalizes Zalka's result for $$\ell=1$$. We also present several numerical results in which our lower bounds based on the trace distance outperform recently obtained lower bounds.
+[arXiv:2107.03948](https://arxiv.org/abs/2107.03948)
 
 ### Shintarou Yanagida (Nagoya University) {#yanagida}
 
