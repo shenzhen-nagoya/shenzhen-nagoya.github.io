@@ -46,7 +46,9 @@ Talks will be streamed on KouShare and YouTube.
 Program
 ----------------
 
-### 5 Sep. Sessoin Chair: Harumichi Nishimura (Morning)/ François Le Gall (Afternoon)
+### 5 Sep.
+
+Sessoin Chair: Harumichi Nishimura (Morning)/ François Le Gall (Afternoon)
 
 | CST (UTC+8)    | JST (UTC+9)    | Speaker             | Title |
 |---------------:|---------------:|:--------------------|-------|
@@ -59,7 +61,9 @@ Program
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Geng Liu            | [Exponential Hardness of Optimization in Variational Quantum Algorithms](#liu) |
 | 15:20 -- 16:00 | 16:20 -- 17:00 | Kohtaro Kato        | [Exact and Local Compression of Quantum Bipartite States](#kato) |
 
-### 6 Sep. Sessoin Chair: Hiroaki Kanno (Morning)/ Shintarou Yanagida (Afternoon)
+### 6 Sep.
+
+Sessoin Chair: Hiroaki Kanno (Morning)/ Shintarou Yanagida (Afternoon)
 
 | CST (UTC+8)    | JST (UTC+9)    | Speaker             | Title |
 |---------------:|---------------:|:--------------------|-------|
@@ -70,7 +74,9 @@ Program
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Hao Xu              | [From group cohomology to topological quantum invariants](#xu) |
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Ryo Hayami          | [dg symplectic geoemetry and (higher) Poisson vertex algebras](#hayami) |
 
-### 7 Sep. Sessoin Chair: Ryuhei Mori (Morning)/ Francesco Buscemi (Afternoon)
+### 7 Sep.
+
+Sessoin Chair: Ryuhei Mori (Morning)/ Francesco Buscemi (Afternoon)
 
 | CST (UTC+8)    | JST (UTC+9)    | Speaker             | Title |
 |---------------:|---------------:|:--------------------|-------|
@@ -82,7 +88,9 @@ Program
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Baichu Yu           | [Measurement-Device-Independent Detection of Beyond Quantum State](#yu) |
 | 15:20 -- 16:00 | 16:20 -- 17:00 | Ryuhei Mori         | |
 
-### 8 Sep. Sessoin Chair: Hiroaki Kanno (Morning)/ Shintarou Yanagida (Afternoon)
+### 8 Sep.
+
+Sessoin Chair: Hiroaki Kanno (Morning)/ Shintarou Yanagida (Afternoon)
 
 | CST (UTC+8)    | JST (UTC+9)    | Speaker             | Title |
 |---------------:|---------------:|:--------------------|-------|
