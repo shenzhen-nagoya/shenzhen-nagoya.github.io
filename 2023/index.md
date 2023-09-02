@@ -46,20 +46,20 @@ Talks will be streamed on KouShare and YouTube.
 Program
 ----------------
 
-### 5 Sep.
+### 5 Sep. Sessoin Chair: Harumichi Nishimura (Morning)/ François Le Gall (Afternoon)
 
 | CST (UTC+8)    | JST (UTC+9)    | Speaker             | Title |
 |---------------:|---------------:|:--------------------|-------|
 | 09:25 -- 09:30 | 10:25 -- 10:30 |                     | Opening |
 | 09:30 -- 10:10 | 10:30 -- 11:10 | François Le Gall    | [Improved Hardness Results for the Guided Local Hamiltonian Problem](#legall) |
 | 10:20 -- 10:40 | 11:20 -- 11:40 | Ansis Rosmanis      | [Quantum computation and simulation, algorithms and complexity](#rosmanis) |
-| 10:50 -- 11:30 | 11:50 -- 12:30 | Benyou Wang         | |
+| 10:50 -- 11:30 | 11:50 -- 12:30 | Benyou Wang         | [What can quantum physics bring to natural language processing?](#bwang) |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Harumichi Nishimura | [More Distributed Quantum Merlin-Arthur Protocols: Improvement and Extension](#nishimura) |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Qisheng Wang        | [Quantum Lower Bounds by Sample-to-Query Lifting](#qwang) |
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Geng Liu            | [Exponential Hardness of Optimization in Variational Quantum Algorithms](#liu) |
 | 15:20 -- 16:00 | 16:20 -- 17:00 | Kohtaro Kato        | [Exact and Local Compression of Quantum Bipartite States](#kato) |
 
-### 6 Sep.
+### 6 Sep. Sessoin Chair: Hiroaki Kanno (Morning)/ Shintarou Yanagida (Afternoon)
 
 | CST (UTC+8)    | JST (UTC+9)    | Speaker             | Title |
 |---------------:|---------------:|:--------------------|-------|
@@ -70,7 +70,7 @@ Program
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Hao Xu              | [From group cohomology to topological quantum invariants](#xu) |
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Ryo Hayami          | [dg symplectic geoemetry and (higher) Poisson vertex algebras](#hayami) |
 
-### 7 Sep.
+### 7 Sep. Sessoin Chair: Ryuhei Mori (Morning)/ Francesco Buscemi (Afternoon)
 
 | CST (UTC+8)    | JST (UTC+9)    | Speaker             | Title |
 |---------------:|---------------:|:--------------------|-------|
@@ -82,7 +82,7 @@ Program
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Baichu Yu           | [Measurement-Device-Independent Detection of Beyond Quantum State](#yu) |
 | 15:20 -- 16:00 | 16:20 -- 17:00 | Ryuhei Mori         | |
 
-### 8 Sep.
+### 8 Sep. Sessoin Chair: Hiroaki Kanno (Morning)/ Shintarou Yanagida (Afternoon)
 
 | CST (UTC+8)    | JST (UTC+9)    | Speaker             | Title |
 |---------------:|---------------:|:--------------------|-------|
@@ -113,7 +113,12 @@ Quantum computation and simulation, algorithms and complexity
 Abstract:
 We consider quantum search algorithms that have access to a noisy oracle that, for every oracle call, with probability $$p>0$$ completely depolarizes the query registers, while otherwise working properly. Previous results had not ruled out quantum $$O(\sqrt{n})$$-query algorithms in this setting, even for constant $$p$$. We show that for all $$p$$ in $$[1/\sqrt{n}, 1-\Omega(1)]$$, the quantum noisy-query complexity of the unstructured search is $$\Omega(np)$$, which is tight up to logarithmic factors. The same bound holds for the dephasing noise and even when, for every oracle call, the algorithm is provided with a flag indicating whether the noise has occurred.
 
-### Benyou Wang (Chinese University of Hong Kong, Shenzhen) {#bwang}
+### Benyou Wang (The Chinese University of Hong Kong, Shenzhen & Shenzhen Research Institute of Big Data) {#bwang}
+
+Title：What can quantum physics bring to natural language processing?
+
+Abstract:
+Quantum physics seeks to describe the world with mathematical language. This speech will first apply the mathematical foundation to describe  natural language, providing concrete physical meaning for each component in neural NLP models. Interestingly, the dynamic aspect to words (e.g. in a spatial or temporal case) will also benefit from the wave formalization which assumes that particles may change depending on their context.  Wave formalization of words fundamentally explains the magic position embedding in the popular network backbone in modern natural language processing. Lastly, this speech will also preliminary explore how other tools in quantum physics (e.g., tensor networks and quantum computer) help NLP.
 
 ### Harumichi Nishimura (Nagoya University) {#nishimura}
 
