@@ -347,7 +347,7 @@ Abstract:
 Chas and Sullivan introduced a family of operations on the homology of
 the free loop space LM of a manifold $$M$$, i.e., the mapping space from the
 circle $$S^1$$ to $$M$$. For example, the loop product is defined as mixture of
-the intersection product on M and the Pontrjagin product on the based
+the intersection product on $$M$$ and the Pontrjagin product on the based
 loop space ΩM given by concatenating two loops. Moreover, it is known
 that these operations give rise to TQFT structure on the homology of LM.
 In this talk, I will explain these operations from the viewpoint of
