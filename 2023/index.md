@@ -362,7 +362,7 @@ algebraic topology.
 
 Title: Quantum master equation and geometric quantization
 
-Abstract: In this talk, I will describe how the method of deformation quantization can be applied in the study of Hitchin connections in geometric quantization and its relation with quantum master equation in Batalin--Vilkovisky quantization quantization.
+Abstract: In this talk, I will describe how the method of deformation quantization can be applied in the study of Hitchin connections in geometric quantization and its relation with quantum master equation in Batalin--Vilkovisky quantization.
 
 ### Masamune Hattori (Nagoya University) {#hattori}
 
