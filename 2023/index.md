@@ -105,13 +105,12 @@ Sessoin Chair: Hiroaki Kanno (Morning)/ Shintarou Yanagida (Afternoon)
 Abstracts
 ----------------
 
-### François Le Gall (Nagoya University) {#legall}
+### Benyou Wang (The Chinese University of Hong Kong, Shenzhen & Shenzhen Research Institute of Big Data) {#bwang}
 
-Title: Improved Hardness Results for the Guided Local Hamiltonian Problem
+Title：What can quantum physics bring to natural language processing?
 
 Abstract:
-Estimating the ground state energy of a local Hamiltonian is a central problem in quantum chemistry. In order to further investigate its complexity and the potential of quantum algorithms for quantum chemistry, Gharibian and Le Gall (STOC 2022) recently introduced the guided local Hamiltonian problem (GLH), which is a variant of the local Hamiltonian problem where an approximation of a ground state is given as an additional input. Gharibian and Le Gall showed quantum advantage (more precisely, BQP-completeness) for GLH with 6-local Hamiltonians when the guiding vector has overlap (inverse-polynomially) close to $$1/\sqrt{2}$$ with a ground state.
-In this paper, we optimally improve both the locality and the overlap parameters: we show that this quantum advantage (BQP-completeness) persists even with 2-local Hamiltonians, and even when the guiding state has overlap (inverse-polynomially) close to 1 with a ground state. Moreover, we show that the BQP-completeness also holds for 2-local physically motivated Hamiltonians on a 2D square lattice or a 2D triangular lattice. This makes a further step towards establishing practical quantum advantage in quantum chemistry.
+Quantum physics seeks to describe the world with mathematical language. This speech will first apply the mathematical foundation to describe  natural language, providing concrete physical meaning for each component in neural NLP models. Interestingly, the dynamic aspect to words (e.g. in a spatial or temporal case) will also benefit from the wave formalization which assumes that particles may change depending on their context.  Wave formalization of words fundamentally explains the magic position embedding in the popular network backbone in modern natural language processing. Lastly, this speech will also preliminary explore how other tools in quantum physics (e.g., tensor networks and quantum computer) help NLP.
 
 ### Ansis Rosmanis (Nagoya University) {#rosmanis}
 
@@ -121,12 +120,13 @@ Quantum Search with Noisy Oracle
 Abstract:
 We consider quantum search algorithms that have access to a noisy oracle that, for every oracle call, with probability $$p>0$$ completely depolarizes the query registers, while otherwise working properly. Previous results had not ruled out quantum $$O(\sqrt{n})$$-query algorithms in this setting, even for constant $$p$$. We show that for all $$p$$ in $$[1/\sqrt{n}, 1-\Omega(1)]$$, the quantum noisy-query complexity of the unstructured search is $$\Omega(np)$$, which is tight up to logarithmic factors. The same bound holds for the dephasing noise and even when, for every oracle call, the algorithm is provided with a flag indicating whether the noise has occurred.
 
-### Benyou Wang (The Chinese University of Hong Kong, Shenzhen & Shenzhen Research Institute of Big Data) {#bwang}
+### François Le Gall (Nagoya University) {#legall}
 
-Title：What can quantum physics bring to natural language processing?
+Title: Improved Hardness Results for the Guided Local Hamiltonian Problem
 
 Abstract:
-Quantum physics seeks to describe the world with mathematical language. This speech will first apply the mathematical foundation to describe  natural language, providing concrete physical meaning for each component in neural NLP models. Interestingly, the dynamic aspect to words (e.g. in a spatial or temporal case) will also benefit from the wave formalization which assumes that particles may change depending on their context.  Wave formalization of words fundamentally explains the magic position embedding in the popular network backbone in modern natural language processing. Lastly, this speech will also preliminary explore how other tools in quantum physics (e.g., tensor networks and quantum computer) help NLP.
+Estimating the ground state energy of a local Hamiltonian is a central problem in quantum chemistry. In order to further investigate its complexity and the potential of quantum algorithms for quantum chemistry, Gharibian and Le Gall (STOC 2022) recently introduced the guided local Hamiltonian problem (GLH), which is a variant of the local Hamiltonian problem where an approximation of a ground state is given as an additional input. Gharibian and Le Gall showed quantum advantage (more precisely, BQP-completeness) for GLH with 6-local Hamiltonians when the guiding vector has overlap (inverse-polynomially) close to $$1/\sqrt{2}$$ with a ground state.
+In this paper, we optimally improve both the locality and the overlap parameters: we show that this quantum advantage (BQP-completeness) persists even with 2-local Hamiltonians, and even when the guiding state has overlap (inverse-polynomially) close to 1 with a ground state. Moreover, we show that the BQP-completeness also holds for 2-local physically motivated Hamiltonians on a 2D square lattice or a 2D triangular lattice. This makes a further step towards establishing practical quantum advantage in quantum chemistry.
 
 ### Harumichi Nishimura (Nagoya University) {#nishimura}
 
