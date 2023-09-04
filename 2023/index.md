@@ -54,7 +54,7 @@ Sessoin Chair: Harumichi Nishimura (Morning)/ François Le Gall (Afternoon)
 |---------------:|---------------:|:--------------------|-------|
 | 09:25 -- 09:30 | 10:25 -- 10:30 |                     | Opening |
 | 09:30 -- 10:10 | 10:30 -- 11:10 | François Le Gall    | [Improved Hardness Results for the Guided Local Hamiltonian Problem](#legall) |
-| 10:20 -- 10:40 | 11:20 -- 11:40 | Ansis Rosmanis      | [Quantum computation and simulation, algorithms and complexity](#rosmanis) |
+| 10:20 -- 10:40 | 11:20 -- 11:40 | Ansis Rosmanis      | [Quantum Search with Noisy Oracle](#rosmanis) |
 | 10:50 -- 11:30 | 11:50 -- 12:30 | Benyou Wang         | [What can quantum physics bring to natural language processing?](#bwang) |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Harumichi Nishimura | [More Distributed Quantum Merlin-Arthur Protocols: Improvement and Extension](#nishimura) |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Qisheng Wang        | [Quantum Lower Bounds by Sample-to-Query Lifting](#qwang) |
@@ -96,7 +96,7 @@ Sessoin Chair: Hiroaki Kanno (Morning)/ Shintarou Yanagida (Afternoon)
 |---------------:|---------------:|:--------------------|-------|
 | 09:30 -- 10:10 | 10:30 -- 11:10 | Shintarou Yanagida  | [Quick introduction to chiral quantization](#yanagida) |
 | 10:20 -- 10:40 | 11:20 -- 11:40 | An-Si Bai           | [The center of a finite dimensional quantum group](#bai) |
-| 10:50 -- 11:10 | 11:50 -- 12:10 | Shun Wakatsuki      | |
+| 10:50 -- 11:10 | 11:50 -- 12:10 | Shun Wakatsuki      | [String topology from the viewpoint of algebraic topology](#wakatsuki) |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Qin Li              | |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Masamune Hattori    | [The algebraic structure of elliptic quantum groups](#hattori) |
 | 14:50 -- 15:10 | 15:50 -- 16:10 |                     | Closing |
@@ -116,7 +116,7 @@ In this paper, we optimally improve both the locality and the overlap parameters
 ### Ansis Rosmanis (Nagoya University) {#rosmanis}
 
 Title:
-Quantum computation and simulation, algorithms and complexity
+Quantum Search with Noisy Oracle
 
 Abstract:
 We consider quantum search algorithms that have access to a noisy oracle that, for every oracle call, with probability $$p>0$$ completely depolarizes the query registers, while otherwise working properly. Previous results had not ruled out quantum $$O(\sqrt{n})$$-query algorithms in this setting, even for constant $$p$$. We show that for all $$p$$ in $$[1/\sqrt{n}, 1-\Omega(1)]$$, the quantum noisy-query complexity of the unstructured search is $$\Omega(np)$$, which is tight up to logarithmic factors. The same bound holds for the dephasing noise and even when, for every oracle call, the algorithm is provided with a flag indicating whether the noise has occurred.
@@ -340,6 +340,19 @@ Abstract:
  The center of an algebra is the subalgebra consisting of elements commuting with every element of this algebra. It has a universal property identified by Lurie (2009) which can be easily generalized to various set-ups. In this talk we announce a verification that the Drinfeld double construction of a finite dimensional Hopf algebra gives rise to the 2-categorical center of this Hopf algebra.
 
 ### Shun Wakatsuki (Nagoya University) {#wakatsuki}
+
+Title: String topology from the viewpoint of algebraic topology
+
+Abstract:
+Chas and Sullivan introduced a family of operations on the homology of
+the free loop space LM of a manifold $$M$$, i.e., the mapping space from the
+circle $$S^1$$ to $$M$$. For example, the loop product is defined as mixture of
+the intersection product on M and the Pontrjagin product on the based
+loop space ΩM given by concatenating two loops. Moreover, it is known
+that these operations give rise to TQFT structure on the homology of LM.
+In this talk, I will explain these operations from the viewpoint of
+algebraic topology.
+
 
 ### Qin Li (Southern University of Science and Technology) {#li}
 
