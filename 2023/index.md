@@ -53,9 +53,9 @@ Sessoin Chair: Harumichi Nishimura (Morning)/ François Le Gall (Afternoon)
 | CST (UTC+8)    | JST (UTC+9)    | Speaker             | Title |
 |---------------:|---------------:|:--------------------|-------|
 | 09:25 -- 09:30 | 10:25 -- 10:30 |                     | Opening |
-| 09:30 -- 10:10 | 10:30 -- 11:10 | François Le Gall    | [Improved Hardness Results for the Guided Local Hamiltonian Problem](#legall) |
+| 09:30 -- 10:10 | 10:30 -- 11:10 | Benyou Wang         | [What can quantum physics bring to natural language processing?](#bwang) |
 | 10:20 -- 10:40 | 11:20 -- 11:40 | Ansis Rosmanis      | [Quantum Search with Noisy Oracle](#rosmanis) |
-| 10:50 -- 11:30 | 11:50 -- 12:30 | Benyou Wang         | [What can quantum physics bring to natural language processing?](#bwang) |
+| 10:50 -- 11:30 | 11:50 -- 12:30 | François Le Gall    | [Improved Hardness Results for the Guided Local Hamiltonian Problem](#legall) |
 | 13:30 -- 14:10 | 14:30 -- 15:10 | Harumichi Nishimura | [More Distributed Quantum Merlin-Arthur Protocols: Improvement and Extension](#nishimura) |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Qisheng Wang        | [Quantum Lower Bounds by Sample-to-Query Lifting](#qwang) |
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Geng Liu            | [Exponential Hardness of Optimization in Variational Quantum Algorithms](#liu) |
@@ -362,7 +362,7 @@ algebraic topology.
 
 Title: Quantum master equation and geometric quantization
 
-Abstract: In this talk, I will describe how the method of deformation quantization can be applied in the study of Hitchin connections in geometric quantization and its relation with quantum master equation in BV quantization.
+Abstract: In this talk, I will describe how the method of deformation quantization can be applied in the study of Hitchin connections in geometric quantization and its relation with quantum master equation in Batalin--Vilkovisky quantization quantization.
 
 ### Masamune Hattori (Nagoya University) {#hattori}
 
