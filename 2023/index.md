@@ -33,6 +33,8 @@ KouShare/YouTube live streaming
 
 Talks will be streamed on KouShare and YouTube.
 
+<https://www.koushare.com/topicIndex/i/SNWQS>
+
 * Morning 5th <https://youtube.com/live/LNfOG15Fud0?feature=share>
 * Afternoon 5th <https://youtube.com/live/RebEfLFH69I?feature=share>
 * Morning 6th <https://youtube.com/live/wQwsHWE0drs?feature=share>
@@ -41,7 +43,6 @@ Talks will be streamed on KouShare and YouTube.
 * Afternoon 7th <https://youtube.com/live/TboDa4SQrRE?feature=share>
 * Morning 8th <https://youtube.com/live/cxjNe3TQRjY?feature=share>
 * Afternoon 8th <https://youtube.com/live/cWU2ySongUE?feature=share>
-
 
 Program
 ----------------
@@ -204,7 +205,6 @@ In this talk, I will give a brief review of these topics, in particular:
 1. The relationship between two (algebraic and geometric) approaches.
 2. The operad of chiral algebras (chiral operad) and its algebraic counterpart.
 
-
 ### Jiaheng Zhao (Chinese Academy of Sciences) {#zhao}
 
 Title: Center functors and condensation theory
@@ -226,13 +226,11 @@ In this talk, I will show that the “Wilson-Dirac operator” considered in lat
 
 This talk is based on a joint work with three physicists and two mathematicians: Hidenori Fukaya, Mikio Furuta, Tetsuya Oonogi, Satoshi Yamaguchi, and Mayuko Yamashita.
 
-
 ### Hao Xu (Georg August University of Göttingen) {#xu}
 
 Title: From group cohomology to topological quantum invariants
 
 Abstract: Group cohomology, a powerful mathematical tool rooted in homological algebra, provides a unique perspective for studying symmetries and invariants associated with groups. By analyzing the cocycles and coboundaries that characterize group extensions, one can unveil subtle properties of symmetry which arises naturally in condensed matter physics, gauge theories and quantum informations. Topological invariants, often realized as robust quantities insensitive to continuous deformations, have recently revolutionized our understanding of topological phases of matter and quantum field theories. The talk will explore how group cohomology seamlessly generalized to the language of higher fusion categories, unveiling the elegant mathematics underlying phenomena such as fractional quantum Hall states.
-
 
 ### Ryo Hayami (Nagoya University) {#hayami}
 
@@ -356,7 +354,6 @@ loop space ΩM given by concatenating two loops. Moreover, it is known
 that these operations give rise to TQFT structure on the homology of LM.
 In this talk, I will explain these operations from the viewpoint of
 algebraic topology.
-
 
 ### Qin Li (Southern University of Science and Technology) {#li}
 
