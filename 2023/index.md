@@ -83,7 +83,7 @@ Sessoin Chair: Ryuhei Mori (Morning)/ Francesco Buscemi (Afternoon)
 | 09:30 -- 10:10 | 10:30 -- 11:10 | Francesco Buscemi   | [Measurement sharpness and incompatibility as quantum resources](#buscemi) |
 | 10:20 -- 10:40 | 11:20 -- 11:40 | Shintaro Minagawa   | [The second law of information thermodynamics for general quantum measurement processes](#minagawa) |
 | 10:50 -- 11:30 | 11:50 -- 12:30 | Masahito Hayashi    | [Tight Cramér-Rao type bounds for multiparameter quantum metrology through conic programming](#hayashi) |
-| 13:30 -- 14:10 | 14:30 -- 15:10 | Haidong Yuan        | |
+| 13:30 -- 14:10 | 14:30 -- 15:10 | Haidong Yuan        | [Precision limit of quantum metrology](#yuan) |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Hayato Arai         | [Derivation of Standard Quantum Theory via State Discrimination](#arai) |
 | 14:50 -- 15:10 | 15:50 -- 16:10 | Baichu Yu           | [Measurement-Device-Independent Detection of Beyond Quantum State](#yu) |
 | 15:20 -- 16:00 | 16:20 -- 17:00 | Ryuhei Mori         | [Lower bounds on the error probability of multiple quantum channel discrimination by the Bures angle and the trace distance](#mori) |
@@ -97,7 +97,7 @@ Sessoin Chair: Hiroaki Kanno (Morning)/ Shintarou Yanagida (Afternoon)
 | 09:30 -- 10:10 | 10:30 -- 11:10 | Shintarou Yanagida  | [Quick introduction to chiral quantization](#yanagida) |
 | 10:20 -- 10:40 | 11:20 -- 11:40 | An-Si Bai           | [The center of a finite dimensional quantum group](#bai) |
 | 10:50 -- 11:10 | 11:50 -- 12:10 | Shun Wakatsuki      | [String topology from the viewpoint of algebraic topology](#wakatsuki) |
-| 13:30 -- 14:10 | 14:30 -- 15:10 | Qin Li              | |
+| 13:30 -- 14:10 | 14:30 -- 15:10 | Qin Li              | [Quantum master equation and geometric quantization](#li) |
 | 14:20 -- 14:40 | 15:20 -- 15:40 | Masamune Hattori    | [The algebraic structure of elliptic quantum groups](#hattori) |
 | 14:50 -- 15:10 | 15:50 -- 16:10 |                     | Closing |
 
@@ -283,6 +283,10 @@ It will appear in Quantum.
 
 ### Haidong Yuan (Chinese University of Hong Kong) {#yuan}
 
+Title: Precision limit of quantum metrology
+
+Abstract: Measurement and estimation of parameters are essential for science and engineering, where the main quest is to identify the highest achievable precision with given resources and design schemes to attain it. In this talk I will present a systematic way to identify the ultimate precision limit in quantum metrology and design optimal protocols to achieve it. I will also talk about the tradeoff relation among the precision limit for the estimation of multiple parameters.
+
 ### Hayato Arai (Nagoya University) {#arai}
 
 Title:
@@ -355,6 +359,10 @@ algebraic topology.
 
 
 ### Qin Li (Southern University of Science and Technology) {#li}
+
+Title: Quantum master equation and geometric quantization
+
+Abstract: In this talk, I will describe how the method of deformation quantization can be applied in the study of Hitchin connections in geometric quantization and its relation with quantum master equation in BV quantization.
 
 ### Masamune Hattori (Nagoya University) {#hattori}
 
