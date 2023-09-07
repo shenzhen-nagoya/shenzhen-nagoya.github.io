@@ -253,7 +253,7 @@ vertex algebras) will be discussed. This talk is partly based on
 
 ### Francesco Buscemi (Nagoya University) {#buscemi}
 
-Title: Measurement sharpness and incompatibility as quantum resources
+Title: Measurement sharpness and incompatibility as quantum resources [slide](slides/ShenzhenNagoya2023_Buscemi.pdf)
 
 Abstract: In this talk I will discuss two aspects of quantum measurements, namely sharpness and incompatibility, from a resource-theoretic perspective. Our construction settles a debate in the literature and fills some gaps in the mathematical and conceptual foundations of quantum theory.
 
