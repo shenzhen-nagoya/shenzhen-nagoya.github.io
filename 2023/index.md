@@ -108,7 +108,7 @@ Abstracts
 
 ### Benyou Wang (The Chinese University of Hong Kong, Shenzhen & Shenzhen Research Institute of Big Data) {#bwang}
 
-Title：What can quantum physics bring to natural language processing? [slide](pdfs/ShenzhenNagoya2023_BenyouWang.pdf)
+Title：What can quantum physics bring to natural language processing? [slide](slides/ShenzhenNagoya2023_BenyouWang.pdf)
 
 Abstract:
 Quantum physics seeks to describe the world with mathematical language. This speech will first apply the mathematical foundation to describe  natural language, providing concrete physical meaning for each component in neural NLP models. Interestingly, the dynamic aspect to words (e.g. in a spatial or temporal case) will also benefit from the wave formalization which assumes that particles may change depending on their context.  Wave formalization of words fundamentally explains the magic position embedding in the popular network backbone in modern natural language processing. Lastly, this speech will also preliminary explore how other tools in quantum physics (e.g., tensor networks and quantum computer) help NLP.
@@ -123,7 +123,7 @@ We consider quantum search algorithms that have access to a noisy oracle that, f
 
 ### François Le Gall (Nagoya University) {#legall}
 
-Title: Improved Hardness Results for the Guided Local Hamiltonian Problem [slide](pdfs/ShenzhenNagoya2023_LeGall.pdf)
+Title: Improved Hardness Results for the Guided Local Hamiltonian Problem [slide](slides/ShenzhenNagoya2023_LeGall.pdf)
 
 Abstract:
 Estimating the ground state energy of a local Hamiltonian is a central problem in quantum chemistry. In order to further investigate its complexity and the potential of quantum algorithms for quantum chemistry, Gharibian and Le Gall (STOC 2022) recently introduced the guided local Hamiltonian problem (GLH), which is a variant of the local Hamiltonian problem where an approximation of a ground state is given as an additional input. Gharibian and Le Gall showed quantum advantage (more precisely, BQP-completeness) for GLH with 6-local Hamiltonians when the guiding vector has overlap (inverse-polynomially) close to $$1/\sqrt{2}$$ with a ground state.
@@ -186,7 +186,7 @@ Link to arXiv: <https://arxiv.org/abs/2205.05056>
 
 ### Kohtaro Kato (Nagoya University) {#kato}
 
-Title: Exact and Local Compression of Quantum Bipartite States [slide](pdfs/ShenzhenNagoya2023_Kato.pdf)
+Title: Exact and Local Compression of Quantum Bipartite States [slide](slides/ShenzhenNagoya2023_Kato.pdf)
 
 Abstract: Quantum data compression is one of the most fundamental quantum information processing. We study an exact local compression of a quantum bipartite state; that is, exact and noiseless one-shot quantum data compression of general mixed state sources without side information or entanglement assistance. We provide a formula for computing the minimal achievable compression dimensions, provided as a minimization of the Schmidt rank of a particular pure state constructed from that state. We will then discuss a possible application to tensor-network states.
 
@@ -215,7 +215,7 @@ The notion of center plays a key role in the study of topological order. In this
 
 ### Shinichiroh Matsuo (Nagoya University) {#matsuo}
 
-Title: Lattice gauge theory and the discretization of Dirac operators [slide](pdfs/ShenzhenNagoya2023_Matsuo.pdf)
+Title: Lattice gauge theory and the discretization of Dirac operators [slide](slides/ShenzhenNagoya2023_Matsuo.pdf)
 
 Abstract:
 Our ultimate goal is the discretization of Seiberg-Witten theory.
@@ -317,7 +317,7 @@ In this talk I will first introduce some notions useful for understanding this p
 
 ### Ryuhei Mori (Nagoya University) {#mori}
 
-Title: Lower bounds on the error probability of multiple quantum channel discrimination by the Bures angle and the trace distance [slide](pdfs/ShenzhenNagoya2023_Mori.pdf)
+Title: Lower bounds on the error probability of multiple quantum channel discrimination by the Bures angle and the trace distance [slide](slides/ShenzhenNagoya2023_Mori.pdf)
 
 Abstract: Quantum channel discrimination is a fundamental problem in quantum information science. In this study, we consider general quantum channel discrimination problems, and derive the lower bounds of the error probability. Our lower bounds are based on the triangle inequalities of the Bures angle and the trace distance. As a consequence of the lower bound based on the Bures angle, we prove the optimality of Grover's search if the number of marked elements is fixed to some integer $$\ell$$. This result generalizes Zalka's result for $$\ell=1$$. We also present several numerical results in which our lower bounds based on the trace distance outperform recently obtained lower bounds.
 [arXiv:2107.03948](https://arxiv.org/abs/2107.03948)
