@@ -133,7 +133,7 @@ In this paper, we optimally improve both the locality and the overlap parameters
 ### Harumichi Nishimura (Nagoya University) {#nishimura}
 
 Title:
-More Distributed Quantum Merlin-Arthur Protocols: Improvement and Extension
+More Distributed Quantum Merlin-Arthur Protocols: Improvement and Extension [slide](slides/ShenzhenNagoya2023_Nishimura.pdf)
 
 Abstract:
 Quantum Merlin-Arthur (QMA) is a quantum analogue of  the complexity
@@ -272,7 +272,7 @@ arXiv: <https://arxiv.org/abs/2308.15558>
 
 ### Masahito Hayashi (CUHK-SZ, IQA, and Nagoya Univ.) {#hayashi}
 
-Title: Tight Cramér-Rao type bounds for multiparameter quantum metrology through conic programming
+Title: Tight Cramér-Rao type bounds for multiparameter quantum metrology through conic programming [slide](slides/ShenzhenNagoya2023_Hayashi.pdf)
 
 Abstract:
 In the quest to unlock the maximum potential of quantum sensors, it is of paramount importance to have practical measurement strategies that can estimate incompatible parameters with best precisions possible. However, it is still not known how to find practical measurements with optimal precisions, even for uncorrelated measurements over probe states. Here, we give a concrete way to find uncorrelated measurement strategies with optimal precisions. We solve this fundamental problem by introducing a framework of conic programming that unifies the theory of precision bounds for multiparameter estimates for uncorrelated and correlated measurement strategies under a common umbrella. Namely, we give precision bounds that arise from linear programs on various cones defined on a tensor product space of matrices, including a particular cone of separable matrices. Subsequently, our theory allows us to develop an efficient algorithm that calculates both upper and lower bounds for the ultimate precision bound for uncorrelated measurement strategies, where these bounds can be tight. In particular, the uncorrelated measurement strategy that arises from our theory saturates the upper bound to the ultimate precision bound. Also, we show numerically that there is a strict gap between the previous efficiently computable bounds and the ultimate precision bound.
