@@ -178,7 +178,7 @@ those for phase/amplitude estimation and Hamiltonian simulation.
 
 ### Geng Liu (Shenzhen International Quantum Academy) {#liu}
 
-Title: Exponential Hardness of Optimization in Variational Quantum Algorithms
+Title: Exponential Hardness of Optimization in Variational Quantum Algorithms [slide](slides/ShenzhenNagoya2023_Liu.pdf)
 
 Abstract: A leading paradigm to establish near-term quantum applications is variational quantum algorithms (VQAs). However, the trainability issue of VQAs has garnered extensive attention, spurring demand for a comprehensive analysis of VQAs in order to identify viable solutions. Here, we propose a perspective that characterizes the trainability of VQAs based on their locality. We prove that the entire variation range of the loss function via adjusting any local quantum gate vanishes exponentially in the number of qubits for a broad class of VQAs. Our findings can deepen the understanding of the role of locality in VQAs and serve as a guideline for assessing the effectiveness of diverse training strategies for VQAs.
 
