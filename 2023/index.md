@@ -324,7 +324,7 @@ Abstract: Quantum channel discrimination is a fundamental problem in quantum inf
 
 ### Shintarou Yanagida (Nagoya University) {#yanagida}
 
-Title: Quick introduction to chiral quantization
+Title: Quick introduction to chiral quantization [slide](slides/ShenzhenNagoya2023_Yanagida.pdf)
 
 Abstract: The notion of chiral quantization is a relatively new notion of quantization in pure mathematics,
 appearing in the recent development of the theory of vertex algebras,
@@ -337,7 +337,7 @@ I will give a short introduction to this topic.
 
 ### An-Si Bai (Southern University of Science and Technology) {#bai}
 
-Title: The center of a finite dimensional quantum group
+Title: The center of a finite dimensional quantum group [slide](slides/ShenzhenNagoya2023_Bai.pdf)
 
 Abstract:
  The center of an algebra is the subalgebra consisting of elements commuting with every element of this algebra. It has a universal property identified by Lurie (2009) which can be easily generalized to various set-ups. In this talk we announce a verification that the Drinfeld double construction of a finite dimensional Hopf algebra gives rise to the 2-categorical center of this Hopf algebra.
@@ -365,7 +365,7 @@ Abstract: In this talk, I will describe how the method of deformation quantizati
 ### Masamune Hattori (Nagoya University) {#hattori}
 
 Title:
-The algebraic structure of elliptic quantum groups
+The algebraic structure of elliptic quantum groups [slide](slides/ShenzhenNagoya2023_Hattori.pdf)
 
 Abstract:
 Elliptic quantum groups are dynamical and elliptic analogues of quantum
