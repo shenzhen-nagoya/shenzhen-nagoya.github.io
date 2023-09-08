@@ -198,7 +198,7 @@ Abstract: A morphism between two mathematical objects of the same type (e.g. gro
 
 ### Yusuke Nishinaka (Nagoya University) {#nishinaka}
 
-Title: A review of vertex algebras and chiral algebras
+Title: A review of vertex algebras and chiral algebras [slide](slides/ShenzhenNagoya2023_Nishinaka.pdf)
 
 Abstract: The notion of a vertex algebra was introduced by Borcherds in 1986, and it is known as an algebraic framework of the chiral part of two-dimensional conformal field theory. On the other hand, there is a geometric framework of chiral conformal field theory, which is called a chiral algebra. This notion was introduced by Beilinson and Drinfeld in 2004 using the theory of D-modules and that of operads.
 
@@ -235,7 +235,7 @@ Abstract: Group cohomology, a powerful mathematical tool rooted in homological a
 
 ### Ryo Hayami (Nagoya University) {#hayami}
 
-Title: dg symplectic geoemetry and (higher) Poisson vertex algebras
+Title: dg symplectic geoemetry and (higher) Poisson vertex algebras [slide](slides/ShenzhenNagoya2023_Hayami.pdf)
 
 Abstract: One-to-one correspondence between Courant-Dorfman algebras and
 Poisson vertex algebras can be seen as an algebraic generalization of
@@ -358,7 +358,7 @@ algebraic topology.
 
 ### Qin Li (Southern University of Science and Technology) {#li}
 
-Title: Quantum master equation and geometric quantization
+Title: Quantum master equation and geometric quantization [slide](slides/ShenzhenNagoya2023_Li.pdf)
 
 Abstract: In this talk, I will describe how the method of deformation quantization can be applied in the study of Hitchin connections in geometric quantization and its relation with quantum master equation in Batalin--Vilkovisky quantization.
 
