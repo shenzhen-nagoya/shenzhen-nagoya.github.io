@@ -264,7 +264,7 @@ References:
 
 ### Shintaro Minagawa (Nagoya University) {#minagawa}
 
-Title: The second law of information thermodynamics for general quantum measurement processes
+Title: The second law of information thermodynamics for general quantum measurement processes [slide](slides/ShenzhenNagoya2023_Minagawa.pdf)
 
 Abstract: Information processing such as feedback control can appear to violate the second law of thermodynamics, and this problem is called Maxwell's demon paradox. The solution of this paradox given by previous studies imposed several assumptions on the measurement process, thus giving only sufficient conditions for feedback control to be consistent with the second law. In contrast, we analyze feedback control with the most general measurement process and discuss necessary and sufficient conditions for it to satisfy the second law inequalities.
 
