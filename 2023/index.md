@@ -344,7 +344,7 @@ Abstract:
 
 ### Shun Wakatsuki (Nagoya University) {#wakatsuki}
 
-Title: String topology from the viewpoint of algebraic topology
+Title: String topology from the viewpoint of algebraic topology [slide](slides/ShenzhenNagoya2023_Wakatsuki.pdf)
 
 Abstract:
 Chas and Sullivan introduced a family of operations on the homology of
