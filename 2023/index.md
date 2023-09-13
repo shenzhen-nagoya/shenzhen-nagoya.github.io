@@ -309,7 +309,7 @@ of general models under a condition.
 
 ### Baichu Yu (Southern University of Science and Technology) {#yu}
 
-Title: Measurement-Device-Independent Detection of Beyond Quantum State
+Title: Measurement-Device-Independent Detection of Beyond Quantum State [slide](slides/ShenzhenNagoya2023_Yu.pptx)
 
 Abstract: Bell experiment is a very important type of protocol to study the theoretical and practical problems of quantum information. The device-independent property of Bell experiment makes it a convenient tool for studying theories that are more general than quantum mechanics. Recently it was pointed out that in a standard Bell experiment, we cannot distinguish non-quantum states in the set of positive over all pure tensors (POPT) states from quantum states. We found that if we use the modified measurement-device-independent Bell experiment instead of the device-independent one, namely, if we replace the classical inputs with trusted quantum states, the non-quantum POPT states can be detected effectively. We also studied the detection power of our protocol when the input sets are tomographically incomplete.
 
