@@ -43,11 +43,11 @@
   <thead>
    <tr bgcolor="lightgray">
     <th>CST (UTC+8)</th> <th>JST (UTC+9)</th> 
-    <th>9/19 (Thu)</th> <th>9/20 (Fri)</th> <th>9/21 (Sat) </th> </tr>
+    <th>9/19 (Thu) </th> <th>9/20 (Fri) </th> <th>9/21 (Sat) </th> </tr>
   </thead>
   <tbody>
    <tr bgcolor="gray">
-       <td></td>  <td></td> <td></td>  <td></td> <td></td> <td></td></tr>
+       <td></td>  <td></td> <td></td>  <td></td> <td></td> </tr>
    <tr> <td>09:30-10:10</td> <td>10:30-11:10</td>
        <td><a href="#21">H. Nishimura  </a></td> 
        <td><a href="#31">L. Kong       </a></td>
@@ -99,7 +99,7 @@
  <ul>
   <li><strong>9/19 (Thu)</strong>
    <ul>
-    <li><a name=21>09:30-10:10 (CST) 10:30-11:10 (JST)</a><br>
+    <li><a id=21>09:30-10:10 (CST) 10:30-11:10 (JST)</a><br>
         <strong>Harumichi Nishimura</strong> 
         (Graduate School of Informatics, Nagoya University) <br>
         <strong>Power and limitation of distributed quantum proofs</strong>
@@ -112,7 +112,7 @@
         Moreover, the first lower bound results on the proof size and communication cost are reported. 
         The talk is based on Ref. [HKN24], a joint work with Atsuya Hasegawa and Srijita Kundu.
     </li>
-    <li><a name=22>10:20-10:40 (CST) 11:20-11:40 (JST)</a><br>
+    <li><a id=22>10:20-10:40 (CST) 11:20-11:40 (JST)</a><br>
         <strong>Yupan Liu</strong>
         (Graduate School of Mathematics, Nagoya University) <br>
         <strong>Space-bounded quantum state testing and its applications</strong>
@@ -131,7 +131,7 @@
         (QSVT), which gives a unified approach to designing space-bounded quantum algorithms. 
         (Joint work with François Le Gall and Qisheng Wang, arXiv:2308.05079)
     </li>
-    <li><a name=23>10:50-11:30 (CST) 11:50-12:30 (JST)</a><br>
+    <li><a id=23>10:50-11:30 (CST) 11:50-12:30 (JST)</a><br>
         <strong>Dong Yang</strong>
         (Shenzhen Institute for Quantum Science and Engineering, SUSTech)<br>
         <strong>Reliability Function of Classical-Quantum Channels</strong>
@@ -150,7 +150,7 @@
         which relates classical-quantum channel coding to that of privacy amplification, 
         as well as our new characterization of the channel Renyi information.
     </li>
-    <li><a name=24>13:30-14:10 (CST) 14:30-15:10 (JST)</a><br>
+    <li><a id=24>13:30-14:10 (CST) 14:30-15:10 (JST)</a><br>
         <strong>Francois Le Gall</strong> 
         (Graduate School of Mathematics, Nagoya University)<br>
         <strong> Online Locality Meets Distributed Quantum Computing</strong>
@@ -182,7 +182,7 @@
         and deterministic and randomized online-LOCAL. 
         This talk is based on arXiv:2403.01903.
     </li>
-    <li><a name=25>14:20-14:40 (CST) 15:20-15:40 (JST)</a><br>
+    <li><a id=25>14:20-14:40 (CST) 15:20-15:40 (JST)</a><br>
         <strong>Qisheng Wang</strong> 
         (The University of Edinburgh)<br>
         <strong>Time-efficient quantum entropy estimator via samplizer</strong>
@@ -194,11 +194,12 @@
         given access to independent samples of &rho;. 
         Specifically, we provide the following quantum estimators.
         1. A quantum estimator for S(&rho;) with time complexity O(N^2), improving the prior best time 
-        complexity O˜(N^6) by Acharya, Issa, Shende, and Wagner (2020) 
+        complexity O(N^6) by Acharya, Issa, Shende, and Wagner (2020) 
         and Bavarian, Mehraba, and Wright (2016).
         2. A quantum estimator for S_&alpha;(&rho;) with time complexity O(N^(4/&alpha;−2)) 
-        for 0<&alpha;<1 and O(N^(4−2/&alpha;)) for &alpha;>1, improving the prior best time complexity 
-        O˜(N^(6/&alpha;)) for 0<&alpha;<1 and O(N^6) for &alpha;>1 
+        for 0 &lt; &alpha; &lt; 1 and O(N^(4−2/&alpha;)) for &alpha;>1, 
+        improving the prior best time complexity 
+        O(N^(6/&alpha;)) for 0 &lt; &alpha; &lt; 1 and O(N^6) for &alpha;>1 
         by Acharya, Issa, Shende, and Wagner (2020), 
         though at a cost of a slightly larger sample complexity.
         Moreover, these estimators are naturally extensible to the low-rank case. 
@@ -214,7 +215,7 @@
         (in the diamond norm) quantum algorithm using &Theta;(Q^2/&delta;) samples of &rho;. 
         Moreover, this samplization is proven to be optimal, up to a polylogarithmic factor.
     </li>
-    <li><a name=26>14:50-15:30 (CST) 15:50-16:30 (JST)</a><br>
+    <li><a id=26>14:50-15:30 (CST) 15:50-16:30 (JST)</a><br>
         <strong>Haidong Yuan</strong> 
         (Chinese University of Hong Kong) <br>
         <strong>Measurement incompatibility in multi-parameter quantum estimation</strong>
@@ -226,7 +227,7 @@
         Here we generalize the measurement uncertainty relations to characterize the tradeoff relations. 
         We demonstrate the power of the approach with a few examples.
     </li>
-   <li><a name=27>15:40-15:30 (CST) 16:40-17:30 (JST)</a><br>
+   <li><a id=27>15:40-15:30 (CST) 16:40-17:30 (JST)</a><br>
        <strong>Masahito Hayashi</strong> 
         (Chinese University of Hong Kong, Shenzhen / 
         International Quantum Academy, Shenzhen /
@@ -249,7 +250,7 @@
    </ul></li>
   <li><strong>9/20 (Fri)</strong>
    <ul>
-    <li><a name=31>9:30-10:10 (CST) 10:30-11:10 (JST)</a><br>
+    <li><a id=31>9:30-10:10 (CST) 10:30-11:10 (JST)</a><br>
         <strong>Liang Kong</strong>
         (Shenzhen Institute for Quantum Science and Engineering, SUSTech) <br>
         <strong>Higher Condensation Theory</strong>
@@ -259,7 +260,7 @@
         higher algebras and higher representations. 
         This is a joint work with Zhi-Hao Zhang, Hao Zheng and Jia-Heng Zhao (arXiv:2403.07813)
     </li>
-    <li><a name=32>10:20-10:40 (CST) 11:20-11:40 (JST)</a><br>
+    <li><a id=32>10:20-10:40 (CST) 11:20-11:40 (JST)</a><br>
         <strong>Kohei Yamaguchi</strong>
         (Graduate School of Mathematics, Nagoya University) <br>
         <strong>Equivariant K-homology of affine Grassmannian</strong>
@@ -274,7 +275,7 @@
         $O(Z_G)$ of the affine variety $Z_{G^\vee}$ over $T$. 
         This talk is based on joint work with Takeshi Ikeda and Mark Shimozono.
     </li>
-    <li><a name=33>10:50-11:30 (CST) 11:50-12:30 (JST)</a><br>
+    <li><a id=33>10:50-11:30 (CST) 11:50-12:30 (JST)</a><br>
         <strong>Qin Li</strong> 
         (Shenzhen Institute for Quantum Science and Engineering, SUSTech) <br>
         <strong>Quantum Tuyman lemma in Geometric Quantization</strong>
@@ -285,14 +286,14 @@
         which induces a series of orthogonality relations on the Hilbert spaces. 
         This is a joint work with Kwokwai Chan and Conan Leung.
     </li>
-    <li><a name=33-2>11:40-12:00 (CST) 12:40-13:00 (JST)</a><br>
+    <li><a id=33-2>11:40-12:00 (CST) 12:40-13:00 (JST)</a><br>
         <strong>Xianghang Zhang</strong> 
         (Graduate School of Mathematics, Nagoya University) <br>
         <strong>Twist field deformations in string field theory</strong>  
         <!--<a href="./SN22/RXu.pdf">slide</a>--><br>
         The background independence of string field theory states that classical solutions to 
         string field equations of motion correspond to string backgrounds, 
-        namely spacetime with D-branes, fluxes and/or orbifolds. 
+        idly spacetime with D-branes, fluxes and/or orbifolds. 
         One example of these solutions is the exactly marginal deformations of the worldsheet CFT. 
         We start with a marginal deformation of the twist field and solve 
         for exact marginality perturbatively. 
@@ -302,7 +303,7 @@
         For closed strings it describes resolution of an orbifold singularity and 
         there is no constraint on the moduli.
     </li>
-    <li><a name=34>13:30-14:10 (CST) 14:30-15:10 (JST)</a><br>
+    <li><a id=34>13:30-14:10 (CST) 14:30-15:10 (JST)</a><br>
         <strong>Hidetoshi Awata</strong>
         (Graduate School of Mathematics, Nagoya University) <br>
         <strong>Introduction to the q-deformed Virasoro algebra</strong>
@@ -310,7 +311,7 @@
         This is an introductory talk on the q-deformed Virasoro algebra and its representation theory.
         ref: arXiv:hep-th/9612233, arXiv:0910.4431, arXiv:2111.07939.
     </li>
-    <li><a name=35>14:20-14:40 (CST) 15:20-15:40 (JST)</a><br></li>
+    <li><a id=35>14:20-14:40 (CST) 15:20-15:40 (JST)</a><br>
         <strong>Rongge Xu</strong>
         (Westlake University) <br> 
         <strong>Condensable Algebras and domain walls in 2d Topological Orders</strong>
@@ -320,7 +321,7 @@
         The algebraic descriptions and the domain wall descriptions can be translated back and forth.
         We give some physical examples including the quantum double model to illustrate these equivalences.
     </li>
-    <li><a name=36>14:50-15:30 (CST) 15:50-16:30 (JST)</a><br>
+    <li><a id=36>14:50-15:30 (CST) 15:50-16:30 (JST)</a><br>
        <strong>Masashi Hamanaka</strong> 
         (Graduate School of Mathematics, Nagoya University) <br>
         <strong> 4dim WZW models and unification of integrable systems</strong> 
@@ -343,7 +344,7 @@
         This talk is based on collaboration with Shan-Chi Huang and Hiroaki Kanno (Nagoya): 
         arXiv:2212.11800, arXiv:2408.16554
     </li>
-    <li><a name=37-1>15:40-16:00 (CST) 16:40-17:00 (JST)</a><br>
+    <li><a id=37-1>15:40-16:00 (CST) 16:40-17:00 (JST)</a><br>
         <strong>Zhi-Hao Zhang</strong>
         (BIMSA, Beijing) <br> 
         <strong>The 2-character theory of finite 2-groups</strong> 
@@ -360,7 +361,7 @@
         which categorifies the classical orthogonality of characters. 
         This talk is based on arXiv: 2305.18151 and 2404.01162, joint with Mo Huang and Hao Xu.
     </li>
-    <li><a name=37-2>16:10-16:30 (CST) 17:10-17:30 (JST)</a><br>
+    <li><a id=37-2>16:10-16:30 (CST) 17:10-17:30 (JST)</a><br>
         <strong>Hao Xu</strong>
         (Mathematisches Institut, Georg-August Universit&auml;t G&ouml;ttingen) <br> 
         <strong>Pontryagin duality for 2-groups</strong>
@@ -377,7 +378,7 @@
    </ul></li>
   <li><strong>9/21 (Sat)</strong>
    <ul>
-    <li><a name=41>9:30-10:10 (CST) 10:30-11:10 (JST)</a><br>
+    <li><a id=41>9:30-10:10 (CST) 10:30-11:10 (JST)</a><br>
         <strong>Kun Fang</strong>
         (Chinese University of Hong Kong, Shenzhen) <br> 
         <strong>Dynamic quantum circuit compilation</strong>
@@ -406,7 +407,7 @@
         via qubit-reuse, bridging the gap between theoretical quantum algorithms 
         and their physical implementation on quantum computers with limited resources.
     </li>
-    <li><a name=42>10:20-10:40 (CST) 11:20-11:40 (JST)</a><br>
+    <li><a id=42>10:20-10:40 (CST) 11:20-11:40 (JST)</a><br>
         <strong>Di Yu</strong>
         (The University of Hong Kong)<br> 
         <strong>Symmetry-Based Quantum Circuit Mapping</strong>
@@ -428,7 +429,7 @@
         Numerical experiments were conducted to compare our approach with existing methods in the field, 
         showcasing its superior performance on typical quantum hardware architectures.
     </li>
-    <li><a name=43>10:50-11:10 (CST) 11:50-12:10 (JST)</a><br>
+    <li><a id=43>10:50-11:10 (CST) 11:50-12:10 (JST)</a><br>
         <strong>Shintaro Minagawa</strong>
         (Graduate School of Infomatics, Nagoya University)<br> 
         <strong>Operational approaches to information and thermodynamics</strong>
@@ -450,7 +451,7 @@
         [1] S. Minagawa, H. Arai, and F. Buscemi, Phys. Rev. Research 4, 033091, (2022).<br>
         [2] S. Minagawa and H. Arai, Phys. Rev. A 109, 062416 (2024).
     </li>
-    <li><a name=43-2>11:10-11:30 (CST) 12:10-12:30 (JST)</a><br>
+    <li><a id=43-2>11:10-11:30 (CST) 12:10-12:30 (JST)</a><br>
         <strong>Duo Xu</strong> 
         (Graduate School of Informatics, Nagoya University)<br>
         <strong>How to Certify Deletion with Constant-Length Verification Key</strong>
@@ -484,7 +485,7 @@
        “Publicly verifiable deletion from minimal assumptions,” 
         in Theory of Cryptography - 21st International Conference, TCC 2023. Springer, 2023, pp. 228–245
     </li>
-    <li><a name=44>13:30-14:10 (CST) 14:30-15:10 (JST)</a><br>
+    <li><a id=44>13:30-14:10 (CST) 14:30-15:10 (JST)</a><br>
         <strong>Francesco Buscemi</strong>
         (Graduate School of Infomatics, Nagoya University) <br> 
         <strong>Squashed information backflows in non-Markovian quantum stochastic processes</strong>
@@ -498,7 +499,7 @@
         thus clarifying the role of non-Markovianity as a resource.
         The possibility of extending the same intuition to other non-convex resource theories is discussed.
     </li>
-    <li><a name=45>14:20-14:40 (CST) 15:20-15:40 (JST)</a><br>
+    <li><a id=45>14:20-14:40 (CST) 15:20-15:40 (JST)</a><br>
         <strong>Teruaki Nagasawa </strong>
         (Graduate School of Infomatics, Nagoya University) <br> 
         <strong>On the generic increase of observational entropy in isolated systems</strong>
@@ -521,7 +522,7 @@
         according to the unitarily invariant Haar distribution, but also to approximate 2-designs, 
         which are regarded as a more physically reasonable means of modelling random evolutions.
     </li>
-    <li><a name=46>14:50-15:30 (CST) 15:50-16:30 (JST)</a><br>
+    <li><a id=46>14:50-15:30 (CST) 15:50-16:30 (JST)</a><br>
         <strong>Kohtaro Kato</strong>
         (Graduate School of Infomatics, Nagoya University) <br>
         <strong>Exact renormalization flow for matrix product density operators</strong>
@@ -537,6 +538,39 @@
         We then analyze MPDO with a well-defined renormalization flow and show that 
         these MPDO can be characterized by some kind of non-invertible symmetries.
     </li>
+   </ul></li>
+  <li>Cancelled talks
+   <ul>
+    <li><a id=51><strong>Hioraki Kanno</strong></a>
+        (Graduate School of Mathematics, Nagoya University) <br>
+        <strong>Introduction to the tetrahedron equation</strong> 
+        <!--<a href="./SN22/Kong.pdf">slide</a>--><br>
+        The Yang-Baxter equation is one of the most fundamental equations 
+        in the theory of 2D integrable lattice models. 
+        It also plays an important role in the construction of quantum invariants of knots and links.
+        In my talk I will review the tetrahedron equation as a 3D generalization of the Yang-Baxter equation. 
+        I also explain how to obtain solutions to the tetrahedron equation 
+        from the Fock representation of the oscillator algebra. 
+        If time allows, I will mention the relation of the tetrahedron equation
+        to our recent work on the non-stationary difference equation 
+        for the partition function of the affine Laumon space.
+    </li>
+    <li><a id=52><strong>Shintarou Yanagida</strong></a>
+        (Graduate School of Mathematics, Nagoya University) <br> 
+        <strong>Supersymmetric vertex algebras</strong>
+        <a href="./slide/Yanagida.pdf">slide</a><br>
+        A supersymmetic vertex algebra is an algebraic framework of two-dimensional conformal field theory
+        equipped with supersymmetry.
+        In this talk, I give a gentle introduction to this object, and explain some geometric aspects.
+        First, I will give the definition, with a comparison to ordinary vertex algebras.
+        Second, I will explain Zhu's C_2-Poisson and associative algebras of vertex algebras
+        and the supersymmetric analogue, along with some examples.
+        Thirdly, the chiral de Rham complex is introduced, and the relation to the factorization structure
+        of the formal loop space is explained.
+        Finally, I will briefly explain how to get the SUSY structure of the chiral de Rham complex 
+        from the factorization structure of the formal superloop space over a superconformal curve.
+        This talk is partially based on a joint work with Takumi Iwane, arXiv:2409.04220.
+    </li>
    </ul>
   </li>
  </ul>
@@ -547,6 +581,7 @@
        Shenzhen–Nagoya Workshop on Quantum Science 2023</a> </li>
   <li>  <a href="./SUSTech-Nagoya2022.html">SUSTech-Nagoya workshop on Quantum Science 2022</a> </li>
   <li>  <a href="./SUSTech-Nagoya2021.html">SUSTech-Nagoya workshop on Quantum Science 2021</a> </li>
+ </ul>
  <hr>
  <p>Last update: 2024/09/18</p>
  </body>
