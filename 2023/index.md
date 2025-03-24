@@ -379,6 +379,6 @@ groups have the structure of Hopf algebroids.
 Links
 ----------------
 
-* [SUSTech-Nagoya 2022](https://www.math.nagoya-u.ac.jp/~yanagida/SUSTech-Nagoya2022.html)
-* [SUSTech-Nagoya 2021](https://www.math.nagoya-u.ac.jp/~yanagida/SUSTech-Nagoya2021.html)
+* [SUSTech-Nagoya 2022](https://www.math.nagoya-u.ac.jp/~yanagida/conf/SUSTech-Nagoya2022.html)
+* [SUSTech-Nagoya 2021](https://www.math.nagoya-u.ac.jp/~yanagida/conf/SUSTech-Nagoya2021.html)
 
